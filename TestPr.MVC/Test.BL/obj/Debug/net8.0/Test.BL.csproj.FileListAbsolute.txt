@@ -1,0 +1,17 @@
+C:\Users\Hp\source\repos\TestPr.MVC\Test.BL\bin\Debug\net8.0\Test.BL.deps.json
+C:\Users\Hp\source\repos\TestPr.MVC\Test.BL\bin\Debug\net8.0\Test.BL.dll
+C:\Users\Hp\source\repos\TestPr.MVC\Test.BL\bin\Debug\net8.0\Test.BL.pdb
+C:\Users\Hp\source\repos\TestPr.MVC\Test.BL\bin\Debug\net8.0\Test.Core.dll
+C:\Users\Hp\source\repos\TestPr.MVC\Test.BL\bin\Debug\net8.0\Test.DAL.dll
+C:\Users\Hp\source\repos\TestPr.MVC\Test.BL\bin\Debug\net8.0\Test.DAL.pdb
+C:\Users\Hp\source\repos\TestPr.MVC\Test.BL\bin\Debug\net8.0\Test.Core.pdb
+C:\Users\Hp\source\repos\TestPr.MVC\Test.BL\obj\Debug\net8.0\Test.BL.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\TestPr.MVC\Test.BL\obj\Debug\net8.0\Test.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\TestPr.MVC\Test.BL\obj\Debug\net8.0\Test.BL.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\TestPr.MVC\Test.BL\obj\Debug\net8.0\Test.BL.AssemblyInfo.cs
+C:\Users\Hp\source\repos\TestPr.MVC\Test.BL\obj\Debug\net8.0\Test.BL.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\TestPr.MVC\Test.BL\obj\Debug\net8.0\Test.BL.csproj.Up2Date
+C:\Users\Hp\source\repos\TestPr.MVC\Test.BL\obj\Debug\net8.0\Test.BL.dll
+C:\Users\Hp\source\repos\TestPr.MVC\Test.BL\obj\Debug\net8.0\refint\Test.BL.dll
+C:\Users\Hp\source\repos\TestPr.MVC\Test.BL\obj\Debug\net8.0\Test.BL.pdb
+C:\Users\Hp\source\repos\TestPr.MVC\Test.BL\obj\Debug\net8.0\ref\Test.BL.dll

@@ -1,0 +1,395 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{782467CC-59E1-4CBF-A0DA-492AD7CC43D8}|Test.BL\\Test.BL.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.bl\\viewmodels\\slideritemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782467CC-59E1-4CBF-A0DA-492AD7CC43D8}|Test.BL\\Test.BL.csproj|solutionrelative:test.bl\\viewmodels\\slideritemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.core\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0CF654-78F5-4C79-8C1B-572737AE8C05}|Test.DAL\\Test.DAL.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0CF654-78F5-4C79-8C1B-572737AE8C05}|Test.DAL\\Test.DAL.csproj|solutionrelative:test.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\views\\quality\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\quality\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\controllers\\qualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\controllers\\qualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.core\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.core\\models\\base\\baseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\models\\base\\baseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0CF654-78F5-4C79-8C1B-572737AE8C05}|Test.DAL\\Test.DAL.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.dal\\migrations\\20250112205545_slideritemset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0CF654-78F5-4C79-8C1B-572737AE8C05}|Test.DAL\\Test.DAL.csproj|solutionrelative:test.dal\\migrations\\20250112205545_slideritemset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0CF654-78F5-4C79-8C1B-572737AE8C05}|Test.DAL\\Test.DAL.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.dal\\migrations\\20250112192905_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0CF654-78F5-4C79-8C1B-572737AE8C05}|Test.DAL\\Test.DAL.csproj|solutionrelative:test.dal\\migrations\\20250112192905_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Test.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Test.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T20:24:10.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Test.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Test.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T20:24:12.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Test.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Program.cs",
+              "RelativeToolTip": "Test.MVC\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:03:05.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SliderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Models\\SliderItem.cs",
+              "RelativeDocumentMoniker": "Test.Core\\Models\\SliderItem.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Models\\SliderItem.cs",
+              "RelativeToolTip": "Test.Core\\Models\\SliderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:07:41.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\About\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test.MVC\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\About\\Index.cshtml",
+              "RelativeToolTip": "Test.MVC\\Views\\About\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T20:29:47.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.BL\\ViewModels\\SliderItemVM.cs",
+              "RelativeDocumentMoniker": "Test.BL\\ViewModels\\SliderItemVM.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.BL\\ViewModels\\SliderItemVM.cs",
+              "RelativeToolTip": "Test.BL\\ViewModels\\SliderItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:13:05.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Test.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Test.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T20:26:58.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test.MVC\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Test.MVC\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T20:41:11.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QualityController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\QualityController.cs",
+              "RelativeDocumentMoniker": "Test.MVC\\Controllers\\QualityController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\QualityController.cs",
+              "RelativeToolTip": "Test.MVC\\Controllers\\QualityController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T20:37:09.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250112205545_SliderItemSet.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.DAL\\Migrations\\20250112205545_SliderItemSet.cs",
+              "RelativeDocumentMoniker": "Test.DAL\\Migrations\\20250112205545_SliderItemSet.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.DAL\\Migrations\\20250112205545_SliderItemSet.cs",
+              "RelativeToolTip": "Test.DAL\\Migrations\\20250112205545_SliderItemSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T20:55:45.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Test.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Test.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:10:32.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Test.MVC\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Test.MVC\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T20:37:24.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Test.MVC\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Test.MVC\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T20:37:51.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test.MVC\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Test.MVC\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T20:38:05.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\Quality\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test.MVC\\Views\\Quality\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\Quality\\Index.cshtml",
+              "RelativeToolTip": "Test.MVC\\Views\\Quality\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwDwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T20:40:26.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Test.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Test.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T20:27:50.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "Test.MVC\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "Test.MVC\\Controllers\\AboutController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T20:29:30.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Test.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Test.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-12T20:11:56.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Test.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\appsettings.json",
+              "RelativeToolTip": "Test.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T18:52:08.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Test.Core\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Test.Core\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:38:03.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Test.Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Models\\AppUser.cs",
+              "RelativeToolTip": "Test.Core\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:10:03.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseAuditable.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Models\\Base\\BaseAuditable.cs",
+              "RelativeDocumentMoniker": "Test.Core\\Models\\Base\\BaseAuditable.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Models\\Base\\BaseAuditable.cs",
+              "RelativeToolTip": "Test.Core\\Models\\Base\\BaseAuditable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:38:18.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250112192905_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.DAL\\Migrations\\20250112192905_Initial.cs",
+              "RelativeDocumentMoniker": "Test.DAL\\Migrations\\20250112192905_Initial.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.DAL\\Migrations\\20250112192905_Initial.cs",
+              "RelativeToolTip": "Test.DAL\\Migrations\\20250112192905_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T19:29:06.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
