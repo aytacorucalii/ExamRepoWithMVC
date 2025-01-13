@@ -10,3 +10,16 @@ C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.Core\obj\Debug\net8.0
 C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.Core\obj\Debug\net8.0\Simple.Core.pdb
 C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.Core\obj\Debug\net8.0\ref\Simple.Core.dll
 C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.Core\obj\Debug\net8.0\Simple.Core.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.Core\bin\Debug\net8.0\Simple.Core.deps.json
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.Core\bin\Debug\net8.0\Simple.Core.dll
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.Core\bin\Debug\net8.0\Simple.Core.pdb
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.Core\obj\Debug\net8.0\Simple.Core.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.Core\obj\Debug\net8.0\Simple.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.Core\obj\Debug\net8.0\Simple.Core.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.Core\obj\Debug\net8.0\Simple.Core.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.Core\obj\Debug\net8.0\Simple.Core.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.Core\obj\Debug\net8.0\Simple.Core.sourcelink.json
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.Core\obj\Debug\net8.0\Simple.Core.dll
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.Core\obj\Debug\net8.0\refint\Simple.Core.dll
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.Core\obj\Debug\net8.0\Simple.Core.pdb
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.Core\obj\Debug\net8.0\ref\Simple.Core.dll

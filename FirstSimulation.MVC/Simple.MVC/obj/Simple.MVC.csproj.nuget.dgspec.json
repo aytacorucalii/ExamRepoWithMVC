@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.MVC\\Simple.MVC.csproj": {}
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Simple.MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.BL\\Simple.BL.csproj": {
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\Simple.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.BL\\Simple.BL.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\Simple.BL.csproj",
         "projectName": "Simple.BL",
-        "projectPath": "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.BL\\Simple.BL.csproj",
-        "packagesPath": "C:\\Users\\classtime\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.BL\\obj\\",
+        "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\Simple.BL.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\classtime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.DAL\\Simple.DAL.csproj": {
-                "projectPath": "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.DAL\\Simple.DAL.csproj"
+              "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Simple.DAL.csproj": {
+                "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Simple.DAL.csproj"
               }
             }
           }
@@ -48,8 +48,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -58,6 +57,14 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.11.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.11.0, )"
             },
             "Microsoft.AspNetCore.Http.Features": {
               "target": "Package",
@@ -76,28 +83,31 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.Core\\Simple.Core.csproj": {
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.Core\\Simple.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.Core\\Simple.Core.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.Core\\Simple.Core.csproj",
         "projectName": "Simple.Core",
-        "projectPath": "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.Core\\Simple.Core.csproj",
-        "packagesPath": "C:\\Users\\classtime\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.Core\\obj\\",
+        "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.Core\\Simple.Core.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\classtime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -124,8 +134,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -152,24 +161,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.DAL\\Simple.DAL.csproj": {
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Simple.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.DAL\\Simple.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Simple.DAL.csproj",
         "projectName": "Simple.DAL",
-        "projectPath": "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.DAL\\Simple.DAL.csproj",
-        "packagesPath": "C:\\Users\\classtime\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.DAL\\obj\\",
+        "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Simple.DAL.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\classtime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -185,8 +194,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.Core\\Simple.Core.csproj": {
-                "projectPath": "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.Core\\Simple.Core.csproj"
+              "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.Core\\Simple.Core.csproj": {
+                "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.Core\\Simple.Core.csproj"
               }
             }
           }
@@ -200,8 +209,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -242,24 +250,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.MVC\\Simple.MVC.csproj": {
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Simple.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.MVC\\Simple.MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Simple.MVC.csproj",
         "projectName": "Simple.MVC",
-        "projectPath": "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.MVC\\Simple.MVC.csproj",
-        "packagesPath": "C:\\Users\\classtime\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.MVC\\obj\\",
+        "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Simple.MVC.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\classtime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -275,8 +283,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.BL\\Simple.BL.csproj": {
-                "projectPath": "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.BL\\Simple.BL.csproj"
+              "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\Simple.BL.csproj": {
+                "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\Simple.BL.csproj"
               }
             }
           }
@@ -290,8 +298,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -327,7 +334,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

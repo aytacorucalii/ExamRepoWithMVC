@@ -273,3 +273,15 @@ C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.MVC\bin\Debug\net8.0\
 C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.MVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.MVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.MVC\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.MVC\obj\Debug\net8.0\Simple.MVC.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.MVC\obj\Debug\net8.0\Simple.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.MVC\obj\Debug\net8.0\Simple.MVC.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.MVC\obj\Debug\net8.0\Simple.MVC.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.MVC\obj\Debug\net8.0\Simple.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.MVC\obj\Debug\net8.0\Simple.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.MVC\obj\Debug\net8.0\Simple.MVC.RazorAssemblyInfo.cache
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.MVC\obj\Debug\net8.0\Simple.MVC.RazorAssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.MVC\obj\Debug\net8.0\Simple.MVC.sourcelink.json
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.MVC\obj\Debug\net8.0\Simple.MVC.dll
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.MVC\obj\Debug\net8.0\refint\Simple.MVC.dll
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\FirstSimulation.MVC\Simple.MVC\obj\Debug\net8.0\Simple.MVC.pdb

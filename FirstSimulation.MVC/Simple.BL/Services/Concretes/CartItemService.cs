@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Hosting;
 using Simple.BL.DTOs.Cart;
 using Simple.BL.Services.Abstractions;
 using Simple.Core.Models;
@@ -11,6 +12,7 @@ public class CartItemService : ICartItemService
     private readonly ICartItemWriteReository _cartItemWriteReository;
     private readonly ICartItemReadReository _cartReadRepository;
     private readonly IMapper _mapper;
+    private readonly IWebHostEnvironment _webHostEnvironment;
     public CartItemService(ICartItemWriteReository cartItemWriteReository, IMapper mapper, ICartItemReadReository cartReadRepository)
     {
         _cartItemWriteReository = cartItemWriteReository;
@@ -21,6 +23,15 @@ public class CartItemService : ICartItemService
     public async Task<CartItem> CreateAsync(CartDTO entityDTO)
     {
         CartItem cartItem = _mapper.Map<CartItem>(entityDTO);
+        string root = _webHostEnvironment.WebRootPath;
+        string fileName = CartDTO.Image.FileName;
+        string filePath = root + "/uploads/carditem/" + fileName;
+
+        using (FileStream stream = new FileStream(filePath.Replace("\\", "/"), FileMode.Create))
+        {
+            await CartDTO.Image.CopyToAsync(stream);
+        }
+        entityDTO.ImageURL = fileName;
         var entity = await _cartItemWriteReository.CreateAsync(cartItem);
         await _cartItemWriteReository.SaveChangesAsync();
         return entity;

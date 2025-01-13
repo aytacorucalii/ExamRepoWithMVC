@@ -1,9 +1,11 @@
 using Microsoft.EntityFrameworkCore;
+using Simple.BL;
 using Simple.DAL.Configurations.RepositoryConfiguration;
 using Simple.DAL.Contexts;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRepoConfiguration();
+builder.Services.AddServiceConfiguration();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<AppDbContext>(opt =>

@@ -559,23 +559,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\classtime\\.nuget\\packages\\": {},
+    "C:\\Users\\Hp\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.Core\\Simple.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.Core\\Simple.Core.csproj",
       "projectName": "Simple.Core",
-      "projectPath": "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.Core\\Simple.Core.csproj",
-      "packagesPath": "C:\\Users\\classtime\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\classtime\\source\\repos\\FirstSimulation.MVC\\Simple.Core\\obj\\",
+      "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.Core\\Simple.Core.csproj",
+      "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\classtime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -602,8 +602,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -630,7 +629,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
