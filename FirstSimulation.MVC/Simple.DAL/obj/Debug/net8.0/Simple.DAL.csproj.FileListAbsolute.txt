@@ -1,0 +1,17 @@
+C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.DAL\bin\Debug\net8.0\Simple.DAL.deps.json
+C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.DAL\bin\Debug\net8.0\Simple.DAL.dll
+C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.DAL\bin\Debug\net8.0\Simple.DAL.pdb
+C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.DAL\bin\Debug\net8.0\Simple.Core.dll
+C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.DAL\bin\Debug\net8.0\Simple.Core.pdb
+C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.DAL\obj\Debug\net8.0\Simple.DAL.csproj.AssemblyReference.cache
+C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.DAL\obj\Debug\net8.0\Simple.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.DAL\obj\Debug\net8.0\Simple.DAL.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.DAL\obj\Debug\net8.0\Simple.DAL.AssemblyInfo.cs
+C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.DAL\obj\Debug\net8.0\Simple.DAL.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.DAL\obj\Debug\net8.0\Simple.DAL.csproj.Up2Date
+C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.DAL\obj\Debug\net8.0\Simple.DAL.dll
+C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.DAL\obj\Debug\net8.0\refint\Simple.DAL.dll
+C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.DAL\obj\Debug\net8.0\Simple.DAL.pdb
+C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.DAL\obj\Debug\net8.0\ref\Simple.DAL.dll
+C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.DAL\bin\Debug\net8.0\Simple.DAL.runtimeconfig.json
+C:\Users\classtime\source\repos\FirstSimulation.MVC\Simple.DAL\obj\Debug\net8.0\Simple.DAL.genruntimeconfig.cache
