@@ -1,0 +1,12 @@
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.Core\bin\Debug\net8.0\Plumberz.Core.deps.json
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.Core\bin\Debug\net8.0\Plumberz.Core.dll
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.Core\bin\Debug\net8.0\Plumberz.Core.pdb
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.Core\obj\Debug\net8.0\Plumberz.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.Core\obj\Debug\net8.0\Plumberz.Core.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.Core\obj\Debug\net8.0\Plumberz.Core.AssemblyInfo.cs
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.Core\obj\Debug\net8.0\Plumberz.Core.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.Core\obj\Debug\net8.0\Plumberz.Core.dll
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.Core\obj\Debug\net8.0\refint\Plumberz.Core.dll
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.Core\obj\Debug\net8.0\Plumberz.Core.pdb
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.Core\obj\Debug\net8.0\ref\Plumberz.Core.dll
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.Core\obj\Debug\net8.0\Plumberz.Core.csproj.AssemblyReference.cache

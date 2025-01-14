@@ -1,0 +1,17 @@
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.DAL\bin\Debug\net8.0\Plumberz.DAL.deps.json
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.DAL\bin\Debug\net8.0\Plumberz.DAL.dll
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.DAL\bin\Debug\net8.0\Plumberz.DAL.pdb
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.DAL\bin\Debug\net8.0\Plumberz.Core.dll
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.DAL\bin\Debug\net8.0\Plumberz.Core.pdb
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.DAL\obj\Debug\net8.0\Plumberz.DAL.csproj.AssemblyReference.cache
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.DAL\obj\Debug\net8.0\Plumberz.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.DAL\obj\Debug\net8.0\Plumberz.DAL.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.DAL\obj\Debug\net8.0\Plumberz.DAL.AssemblyInfo.cs
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.DAL\obj\Debug\net8.0\Plumberz.DAL.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.DAL\obj\Debug\net8.0\Plumberz.E9B57690.Up2Date
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.DAL\obj\Debug\net8.0\Plumberz.DAL.dll
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.DAL\obj\Debug\net8.0\refint\Plumberz.DAL.dll
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.DAL\obj\Debug\net8.0\Plumberz.DAL.pdb
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.DAL\obj\Debug\net8.0\ref\Plumberz.DAL.dll
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.DAL\bin\Debug\net8.0\Plumberz.DAL.runtimeconfig.json
+C:\Users\classtime\source\repos\Simulation2.MVC\Plumberz.DAL\obj\Debug\net8.0\Plumberz.DAL.genruntimeconfig.cache
