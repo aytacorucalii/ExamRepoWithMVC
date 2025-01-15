@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Test.MVC.csproj": {}
+    "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Test.MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.BL\\Test.BL.csproj": {
+    "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.BL\\Test.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.BL\\Test.BL.csproj",
+        "projectUniqueName": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.BL\\Test.BL.csproj",
         "projectName": "Test.BL",
-        "projectPath": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.BL\\Test.BL.csproj",
-        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.BL\\obj\\",
+        "projectPath": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.BL\\Test.BL.csproj",
+        "packagesPath": "C:\\Users\\classtime\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\classtime\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.DAL\\Test.DAL.csproj": {
-                "projectPath": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.DAL\\Test.DAL.csproj"
+              "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.DAL\\Test.DAL.csproj": {
+                "projectPath": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.DAL\\Test.DAL.csproj"
               }
             }
           }
@@ -48,7 +48,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -69,24 +70,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Test.Core.csproj": {
+    "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.Core\\Test.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Test.Core.csproj",
+        "projectUniqueName": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.Core\\Test.Core.csproj",
         "projectName": "Test.Core",
-        "projectPath": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Test.Core.csproj",
-        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\obj\\",
+        "projectPath": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.Core\\Test.Core.csproj",
+        "packagesPath": "C:\\Users\\classtime\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\classtime\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -113,7 +114,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -134,24 +136,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.DAL\\Test.DAL.csproj": {
+    "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.DAL\\Test.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.DAL\\Test.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.DAL\\Test.DAL.csproj",
         "projectName": "Test.DAL",
-        "projectPath": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.DAL\\Test.DAL.csproj",
-        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.DAL\\obj\\",
+        "projectPath": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.DAL\\Test.DAL.csproj",
+        "packagesPath": "C:\\Users\\classtime\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\classtime\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -167,8 +169,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Test.Core.csproj": {
-                "projectPath": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Test.Core.csproj"
+              "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.Core\\Test.Core.csproj": {
+                "projectPath": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.Core\\Test.Core.csproj"
               }
             }
           }
@@ -182,7 +184,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -219,24 +222,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Test.MVC.csproj": {
+    "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Test.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Test.MVC.csproj",
+        "projectUniqueName": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Test.MVC.csproj",
         "projectName": "Test.MVC",
-        "projectPath": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Test.MVC.csproj",
-        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\obj\\",
+        "projectPath": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Test.MVC.csproj",
+        "packagesPath": "C:\\Users\\classtime\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\classtime\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -252,8 +255,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.BL\\Test.BL.csproj": {
-                "projectPath": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.BL\\Test.BL.csproj"
+              "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.BL\\Test.BL.csproj": {
+                "projectPath": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.BL\\Test.BL.csproj"
               }
             }
           }
@@ -267,7 +270,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -303,7 +307,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

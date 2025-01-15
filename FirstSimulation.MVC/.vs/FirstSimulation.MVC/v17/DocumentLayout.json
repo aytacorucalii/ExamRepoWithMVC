@@ -1,213 +1,213 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\",
+  "WorkspaceRootPath": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.bl\\services\\concretes\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|solutionrelative:simple.bl\\services\\concretes\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.bl\\dtos\\cart\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|solutionrelative:simple.bl\\dtos\\cart\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\views\\whyus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\areas\\admin\\views\\whyus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4151CF2-C8DE-4DB3-82F2-7B035D3A6209}|Simple.Core\\Simple.Core.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.core\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4151CF2-C8DE-4DB3-82F2-7B035D3A6209}|Simple.Core\\Simple.Core.csproj|solutionrelative:simple.core\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\views\\whyus\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\areas\\admin\\views\\whyus\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.bl\\simple.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|solutionrelative:simple.bl\\simple.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\views\\whyus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\areas\\admin\\views\\whyus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\controllers\\whyuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\areas\\admin\\controllers\\whyuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.bl\\services\\abstractions\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|solutionrelative:simple.bl\\services\\abstractions\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.bl\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|solutionrelative:simple.bl\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.bl\\validations\\cartvalidation\\updatecartvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|solutionrelative:simple.bl\\validations\\cartvalidation\\updatecartvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.bl\\validations\\cartvalidation\\createcartvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|solutionrelative:simple.bl\\validations\\cartvalidation\\createcartvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.dal\\configurations\\repositoryconfiguration\\repoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.bl\\services\\concretes\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|solutionrelative:simple.bl\\services\\concretes\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.bl\\dtos\\cart\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|solutionrelative:simple.bl\\dtos\\cart\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\views\\whyus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\areas\\admin\\views\\whyus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4151CF2-C8DE-4DB3-82F2-7B035D3A6209}|Simple.Core\\Simple.Core.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.core\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4151CF2-C8DE-4DB3-82F2-7B035D3A6209}|Simple.Core\\Simple.Core.csproj|solutionrelative:simple.core\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\views\\whyus\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\areas\\admin\\views\\whyus\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.bl\\simple.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|solutionrelative:simple.bl\\simple.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\views\\whyus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\areas\\admin\\views\\whyus\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\controllers\\whyuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\areas\\admin\\controllers\\whyuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.bl\\services\\abstractions\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|solutionrelative:simple.bl\\services\\abstractions\\icartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.bl\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|solutionrelative:simple.bl\\serviceconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.bl\\validations\\cartvalidation\\updatecartvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|solutionrelative:simple.bl\\validations\\cartvalidation\\updatecartvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.bl\\validations\\cartvalidation\\createcartvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|solutionrelative:simple.bl\\validations\\cartvalidation\\createcartvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.dal\\configurations\\repositoryconfiguration\\repoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|solutionrelative:simple.dal\\configurations\\repositoryconfiguration\\repoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.dal\\configurations\\cartitems\\cartitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.dal\\configurations\\cartitems\\cartitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|solutionrelative:simple.dal\\configurations\\cartitems\\cartitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4151CF2-C8DE-4DB3-82F2-7B035D3A6209}|Simple.Core\\Simple.Core.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.core\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4151CF2-C8DE-4DB3-82F2-7B035D3A6209}|Simple.Core\\Simple.Core.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.core\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4151CF2-C8DE-4DB3-82F2-7B035D3A6209}|Simple.Core\\Simple.Core.csproj|solutionrelative:simple.core\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\areas\\admin\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.bl\\profiles\\cart\\cartprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.bl\\profiles\\cart\\cartprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2E1CA2F-633D-44D4-A6FF-0439F35A814C}|Simple.BL\\Simple.BL.csproj|solutionrelative:simple.bl\\profiles\\cart\\cartprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.dal\\repositories\\concretes\\cartitemreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.dal\\repositories\\concretes\\cartitemreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|solutionrelative:simple.dal\\repositories\\concretes\\cartitemreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.dal\\repositories\\abstractions\\icartitemwritereository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.dal\\repositories\\abstractions\\icartitemwritereository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|solutionrelative:simple.dal\\repositories\\abstractions\\icartitemwritereository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.dal\\repositories\\concretes\\cartitemwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.dal\\repositories\\concretes\\cartitemwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|solutionrelative:simple.dal\\repositories\\concretes\\cartitemwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.dal\\repositories\\abstractions\\icartitemreadreository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.dal\\repositories\\abstractions\\icartitemreadreository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|solutionrelative:simple.dal\\repositories\\abstractions\\icartitemreadreository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.dal\\repositories\\abstractions\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.dal\\repositories\\abstractions\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|solutionrelative:simple.dal\\repositories\\abstractions\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.dal\\repositories\\abstractions\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.dal\\repositories\\abstractions\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|solutionrelative:simple.dal\\repositories\\abstractions\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\views\\question\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\views\\question\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\views\\question\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|solutionrelative:simple.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4151CF2-C8DE-4DB3-82F2-7B035D3A6209}|Simple.Core\\Simple.Core.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4151CF2-C8DE-4DB3-82F2-7B035D3A6209}|Simple.Core\\Simple.Core.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4151CF2-C8DE-4DB3-82F2-7B035D3A6209}|Simple.Core\\Simple.Core.csproj|solutionrelative:simple.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.dal\\repositories\\concretes\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.dal\\repositories\\concretes\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|solutionrelative:simple.dal\\repositories\\concretes\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.dal\\repositories\\concretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.dal\\repositories\\concretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|solutionrelative:simple.dal\\repositories\\concretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.dal\\repositories\\concretes\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.dal\\repositories\\concretes\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|solutionrelative:simple.dal\\repositories\\concretes\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|solutionrelative:simple.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4151CF2-C8DE-4DB3-82F2-7B035D3A6209}|Simple.Core\\Simple.Core.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.core\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B4151CF2-C8DE-4DB3-82F2-7B035D3A6209}|Simple.Core\\Simple.Core.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.core\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4151CF2-C8DE-4DB3-82F2-7B035D3A6209}|Simple.Core\\Simple.Core.csproj|solutionrelative:simple.core\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\views\\contactus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\views\\contactus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\views\\contactus\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\controllers\\contactuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EB99693C-E999-4C25-9932-BA5B665B435D}|Simple.MVC\\Simple.MVC.csproj|solutionrelative:simple.mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\firstsimulation.mvc\\simple.dal\\migrations\\20250113110725_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\firstsimulation.mvc\\simple.dal\\migrations\\20250113110725_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F26AAAF9-044D-422F-8400-1379E6D728D3}|Simple.DAL\\Simple.DAL.csproj|solutionrelative:simple.dal\\migrations\\20250113110725_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -218,683 +218,633 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Simple.BL",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\Simple.BL.csproj",
-              "RelativeDocumentMoniker": "Simple.BL\\Simple.BL.csproj",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\Simple.BL.csproj",
-              "RelativeToolTip": "Simple.BL\\Simple.BL.csproj",
-              "ViewState": "AgIAAAAAAAAAXBzaNlzmvxUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-13T21:05:27.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Update.cshtml",
               "RelativeDocumentMoniker": "Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Update.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Update.cshtml",
               "RelativeToolTip": "Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T20:47:20.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T20:47:20.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Create.cshtml",
               "RelativeDocumentMoniker": "Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Create.cshtml",
               "RelativeToolTip": "Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T20:47:06.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Index.cshtml",
-              "RelativeDocumentMoniker": "Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Index.cshtml",
-              "RelativeToolTip": "Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T20:46:51.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CartDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\DTOs\\Cart\\CartDTO.cs",
-              "RelativeDocumentMoniker": "Simple.BL\\DTOs\\Cart\\CartDTO.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\DTOs\\Cart\\CartDTO.cs",
-              "RelativeToolTip": "Simple.BL\\DTOs\\Cart\\CartDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T12:36:48.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T20:47:06.074Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.Core\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "Simple.Core\\Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.Core\\Models\\CartItem.cs",
-              "RelativeToolTip": "Simple.Core\\Models\\CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T11:19:30.972Z",
-              "EditorCaption": ""
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Index.cshtml",
+              "RelativeToolTip": "Simple.MVC\\Areas\\Admin\\Views\\WhyUs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T20:46:51.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "CartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.BL\\DTOs\\Cart\\CartDTO.cs",
+              "RelativeDocumentMoniker": "Simple.BL\\DTOs\\Cart\\CartDTO.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.BL\\DTOs\\Cart\\CartDTO.cs",
+              "RelativeToolTip": "Simple.BL\\DTOs\\Cart\\CartDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:36:48.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.Core\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "Simple.Core\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.Core\\Models\\CartItem.cs",
+              "RelativeToolTip": "Simple.Core\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:19:30.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CartItemService.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\Services\\Concretes\\CartItemService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.BL\\Services\\Concretes\\CartItemService.cs",
               "RelativeDocumentMoniker": "Simple.BL\\Services\\Concretes\\CartItemService.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\Services\\Concretes\\CartItemService.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.BL\\Services\\Concretes\\CartItemService.cs",
               "RelativeToolTip": "Simple.BL\\Services\\Concretes\\CartItemService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T13:25:05.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Simple.MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Simple.MVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAD0AAAAAAAAAAAAowOwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T10:51:01.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Simple.MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Simple.MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T10:50:49.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "WhyUsController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Controllers\\WhyUsController.cs",
-              "RelativeDocumentMoniker": "Simple.MVC\\Areas\\Admin\\Controllers\\WhyUsController.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Controllers\\WhyUsController.cs",
-              "RelativeToolTip": "Simple.MVC\\Areas\\Admin\\Controllers\\WhyUsController.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCgAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T14:25:10.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T10:51:01.764Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ICartItemService.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\Services\\Abstractions\\ICartItemService.cs",
-              "RelativeDocumentMoniker": "Simple.BL\\Services\\Abstractions\\ICartItemService.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\Services\\Abstractions\\ICartItemService.cs",
-              "RelativeToolTip": "Simple.BL\\Services\\Abstractions\\ICartItemService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Simple.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Simple.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:24:49.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T10:50:49.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ServiceConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\ServiceConfiguration.cs",
-              "RelativeDocumentMoniker": "Simple.BL\\ServiceConfiguration.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\ServiceConfiguration.cs",
-              "RelativeToolTip": "Simple.BL\\ServiceConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T20:18:12.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UpdateCartValidation.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\Validations\\CartValidation\\UpdateCartValidation.cs",
-              "RelativeDocumentMoniker": "Simple.BL\\Validations\\CartValidation\\UpdateCartValidation.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\Validations\\CartValidation\\UpdateCartValidation.cs",
-              "RelativeToolTip": "Simple.BL\\Validations\\CartValidation\\UpdateCartValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T20:28:40.186Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateCartValidation.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\Validations\\CartValidation\\CreateCartValidation.cs",
-              "RelativeDocumentMoniker": "Simple.BL\\Validations\\CartValidation\\CreateCartValidation.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\Validations\\CartValidation\\CreateCartValidation.cs",
-              "RelativeToolTip": "Simple.BL\\Validations\\CartValidation\\CreateCartValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T20:21:57.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Simple.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Simple.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T12:17:44.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Program.cs",
               "RelativeDocumentMoniker": "Simple.MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Program.cs",
               "RelativeToolTip": "Simple.MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T11:02:43.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Simple.BL.csproj",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.BL\\Simple.BL.csproj",
+              "RelativeDocumentMoniker": "Simple.BL\\Simple.BL.csproj",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.BL\\Simple.BL.csproj",
+              "RelativeToolTip": "Simple.BL\\Simple.BL.csproj",
+              "ViewState": "AgIAAAAAAAAAXBzaNlzmvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T21:05:27.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WhyUsController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Controllers\\WhyUsController.cs",
+              "RelativeDocumentMoniker": "Simple.MVC\\Areas\\Admin\\Controllers\\WhyUsController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Controllers\\WhyUsController.cs",
+              "RelativeToolTip": "Simple.MVC\\Areas\\Admin\\Controllers\\WhyUsController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T14:25:10.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICartItemService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.BL\\Services\\Abstractions\\ICartItemService.cs",
+              "RelativeDocumentMoniker": "Simple.BL\\Services\\Abstractions\\ICartItemService.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.BL\\Services\\Abstractions\\ICartItemService.cs",
+              "RelativeToolTip": "Simple.BL\\Services\\Abstractions\\ICartItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T13:24:49.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.BL\\ServiceConfiguration.cs",
+              "RelativeDocumentMoniker": "Simple.BL\\ServiceConfiguration.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.BL\\ServiceConfiguration.cs",
+              "RelativeToolTip": "Simple.BL\\ServiceConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T20:18:12.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateCartValidation.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.BL\\Validations\\CartValidation\\UpdateCartValidation.cs",
+              "RelativeDocumentMoniker": "Simple.BL\\Validations\\CartValidation\\UpdateCartValidation.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.BL\\Validations\\CartValidation\\UpdateCartValidation.cs",
+              "RelativeToolTip": "Simple.BL\\Validations\\CartValidation\\UpdateCartValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T20:28:40.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateCartValidation.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.BL\\Validations\\CartValidation\\CreateCartValidation.cs",
+              "RelativeDocumentMoniker": "Simple.BL\\Validations\\CartValidation\\CreateCartValidation.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.BL\\Validations\\CartValidation\\CreateCartValidation.cs",
+              "RelativeToolTip": "Simple.BL\\Validations\\CartValidation\\CreateCartValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T20:21:57.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Simple.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Simple.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T12:17:44.094Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 16,
               "Title": "CartItemConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Configurations\\CartItems\\CartItemConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Configurations\\CartItems\\CartItemConfiguration.cs",
               "RelativeDocumentMoniker": "Simple.DAL\\Configurations\\CartItems\\CartItemConfiguration.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Configurations\\CartItems\\CartItemConfiguration.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Configurations\\CartItems\\CartItemConfiguration.cs",
               "RelativeToolTip": "Simple.DAL\\Configurations\\CartItems\\CartItemConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:07:19.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:07:19.411Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "RepoConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Configurations\\RepositoryConfiguration\\RepoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Configurations\\RepositoryConfiguration\\RepoConfiguration.cs",
               "RelativeDocumentMoniker": "Simple.DAL\\Configurations\\RepositoryConfiguration\\RepoConfiguration.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Configurations\\RepositoryConfiguration\\RepoConfiguration.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Configurations\\RepositoryConfiguration\\RepoConfiguration.cs",
               "RelativeToolTip": "Simple.DAL\\Configurations\\RepositoryConfiguration\\RepoConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:32:15.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:32:15.681Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.Core\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.Core\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Simple.Core\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.Core\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.Core\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Simple.Core\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T10:47:39.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T10:47:39.787Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Simple.MVC\\Areas\\Admin\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Simple.MVC\\Areas\\Admin\\Controllers\\LoginController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T14:17:06.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T14:17:06.761Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "CartItemReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\CartItemReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\CartItemReadRepository.cs",
               "RelativeDocumentMoniker": "Simple.DAL\\Repositories\\Concretes\\CartItemReadRepository.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\CartItemReadRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\CartItemReadRepository.cs",
               "RelativeToolTip": "Simple.DAL\\Repositories\\Concretes\\CartItemReadRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:22:33.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:22:33.174Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "ICartItemWriteReository.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\ICartItemWriteReository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\ICartItemWriteReository.cs",
               "RelativeDocumentMoniker": "Simple.DAL\\Repositories\\Abstractions\\ICartItemWriteReository.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\ICartItemWriteReository.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\ICartItemWriteReository.cs",
               "RelativeToolTip": "Simple.DAL\\Repositories\\Abstractions\\ICartItemWriteReository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:29:15.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:29:15.99Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "CartProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\Profiles\\Cart\\CartProfile.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.BL\\Profiles\\Cart\\CartProfile.cs",
               "RelativeDocumentMoniker": "Simple.BL\\Profiles\\Cart\\CartProfile.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.BL\\Profiles\\Cart\\CartProfile.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.BL\\Profiles\\Cart\\CartProfile.cs",
               "RelativeToolTip": "Simple.BL\\Profiles\\Cart\\CartProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T14:13:50.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T14:13:50.876Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "CartItemWriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\CartItemWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\CartItemWriteRepository.cs",
               "RelativeDocumentMoniker": "Simple.DAL\\Repositories\\Concretes\\CartItemWriteRepository.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\CartItemWriteRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\CartItemWriteRepository.cs",
               "RelativeToolTip": "Simple.DAL\\Repositories\\Concretes\\CartItemWriteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:30:01.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:30:01.388Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "ICartItemReadReository.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\ICartItemReadReository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\ICartItemReadReository.cs",
               "RelativeDocumentMoniker": "Simple.DAL\\Repositories\\Abstractions\\ICartItemReadReository.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\ICartItemReadReository.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\ICartItemReadReository.cs",
               "RelativeToolTip": "Simple.DAL\\Repositories\\Abstractions\\ICartItemReadReository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T13:20:06.641Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T13:20:06.641Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Simple.MVC\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Simple.MVC\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T10:42:56.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T10:42:56.001Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "IReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\IReadRepository.cs",
               "RelativeDocumentMoniker": "Simple.DAL\\Repositories\\Abstractions\\IReadRepository.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\IReadRepository.cs",
               "RelativeToolTip": "Simple.DAL\\Repositories\\Abstractions\\IReadRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T11:38:43.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T11:38:43.928Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "IWriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\IWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\IWriteRepository.cs",
               "RelativeDocumentMoniker": "Simple.DAL\\Repositories\\Abstractions\\IWriteRepository.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\IWriteRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\IWriteRepository.cs",
               "RelativeToolTip": "Simple.DAL\\Repositories\\Abstractions\\IWriteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T11:41:28.365Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T11:41:28.365Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Simple.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Simple.MVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T10:42:17.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T10:42:17.584Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Question\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Question\\Index.cshtml",
               "RelativeDocumentMoniker": "Simple.MVC\\Views\\Question\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Question\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Question\\Index.cshtml",
               "RelativeToolTip": "Simple.MVC\\Views\\Question\\Index.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T10:56:28.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T10:56:28.399Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.Core\\Models\\AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.Core\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Simple.Core\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.Core\\Models\\AppUser.cs",
               "RelativeToolTip": "Simple.Core\\Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T11:19:39.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T11:19:39.733Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Contexts\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Simple.DAL\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Contexts\\AppDbContext.cs",
               "RelativeToolTip": "Simple.DAL\\Contexts\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T10:59:08.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T10:59:08.131Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Simple.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Simple.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T12:14:03.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T12:14:03.973Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Simple.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Simple.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T12:14:19.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T12:14:19.651Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Simple.MVC\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Simple.MVC\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T10:42:54.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T10:42:54.657Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Simple.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Simple.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAEUAAAAAAAAAAAAcwGQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T12:13:41.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T12:13:41.908Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Simple.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeToolTip": "Simple.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAEUCAAAAAAAAAAAUwGsCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T12:28:44.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T12:28:44.931Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "QuestionController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Controllers\\QuestionController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Controllers\\QuestionController.cs",
               "RelativeDocumentMoniker": "Simple.MVC\\Controllers\\QuestionController.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Controllers\\QuestionController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Controllers\\QuestionController.cs",
               "RelativeToolTip": "Simple.MVC\\Controllers\\QuestionController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T10:53:33.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T10:53:33.692Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "ReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\ReadRepository.cs",
               "RelativeDocumentMoniker": "Simple.DAL\\Repositories\\Concretes\\ReadRepository.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\ReadRepository.cs",
               "RelativeToolTip": "Simple.DAL\\Repositories\\Concretes\\ReadRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T11:41:56.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T11:41:56.496Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "WriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\WriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\WriteRepository.cs",
               "RelativeDocumentMoniker": "Simple.DAL\\Repositories\\Concretes\\WriteRepository.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\WriteRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\WriteRepository.cs",
               "RelativeToolTip": "Simple.DAL\\Repositories\\Concretes\\WriteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T11:49:48.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T11:49:48.841Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Simple.DAL\\Repositories\\Concretes\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Concretes\\GenericRepository.cs",
               "RelativeToolTip": "Simple.DAL\\Repositories\\Concretes\\GenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T11:37:35.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T11:37:35.296Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Simple.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
               "RelativeToolTip": "Simple.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T11:34:38.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T11:34:38.47Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "Simple.MVC\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "Simple.MVC\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-01-13T11:30:59.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T11:30:59.989Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 46,
               "Title": "ContactUsController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Controllers\\ContactUsController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Controllers\\ContactUsController.cs",
               "RelativeDocumentMoniker": "Simple.MVC\\Controllers\\ContactUsController.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Controllers\\ContactUsController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Controllers\\ContactUsController.cs",
               "RelativeToolTip": "Simple.MVC\\Controllers\\ContactUsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T11:12:00.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T11:12:00.65Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 51,
               "Title": "20250113110725_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Migrations\\20250113110725_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Migrations\\20250113110725_Initial.cs",
               "RelativeDocumentMoniker": "Simple.DAL\\Migrations\\20250113110725_Initial.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.DAL\\Migrations\\20250113110725_Initial.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.DAL\\Migrations\\20250113110725_Initial.cs",
               "RelativeToolTip": "Simple.DAL\\Migrations\\20250113110725_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T11:07:25.565Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T11:07:25.565Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 42,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\appsettings.json",
               "RelativeDocumentMoniker": "Simple.MVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\appsettings.json",
               "RelativeToolTip": "Simple.MVC\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-13T11:00:56.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T11:00:56.327Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 45,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\ContactUs\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\ContactUs\\Index.cshtml",
               "RelativeDocumentMoniker": "Simple.MVC\\Views\\ContactUs\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\ContactUs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\ContactUs\\Index.cshtml",
               "RelativeToolTip": "Simple.MVC\\Views\\ContactUs\\Index.cshtml",
               "ViewState": "AgIAACcAAAAAAAAAAIBJwD8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T11:12:09.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T11:12:09.957Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.Core\\Models\\Base\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.Core\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Simple.Core\\Models\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.Core\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.Core\\Models\\Base\\BaseEntity.cs",
               "RelativeToolTip": "Simple.Core\\Models\\Base\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T11:13:31.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T11:13:31.195Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 48,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\About\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\About\\Index.cshtml",
               "RelativeDocumentMoniker": "Simple.MVC\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\About\\Index.cshtml",
               "RelativeToolTip": "Simple.MVC\\Views\\About\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T10:57:26.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T10:57:26.479Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 47,
               "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Controllers\\AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "Simple.MVC\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Controllers\\AboutController.cs",
               "RelativeToolTip": "Simple.MVC\\Controllers\\AboutController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T10:57:16.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T10:57:16.546Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 49,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Simple.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "Simple.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T10:42:15.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T10:42:15.287Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 50,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Shared\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "Simple.MVC\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\FirstSimulation.MVC\\Simple.MVC\\Views\\Shared\\Error.cshtml",
               "RelativeToolTip": "Simple.MVC\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-13T10:42:13.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-13T10:42:13.272Z"
             }
           ]
         }

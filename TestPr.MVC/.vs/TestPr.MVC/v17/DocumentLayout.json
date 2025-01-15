@@ -1,97 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\",
+  "WorkspaceRootPath": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{782467CC-59E1-4CBF-A0DA-492AD7CC43D8}|Test.BL\\Test.BL.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.bl\\viewmodels\\slideritemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{782467CC-59E1-4CBF-A0DA-492AD7CC43D8}|Test.BL\\Test.BL.csproj|solutionrelative:test.bl\\viewmodels\\slideritemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.mvc\\areas\\admin\\data\\repositories\\concretes\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\areas\\admin\\data\\repositories\\concretes\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.mvc\\areas\\admin\\data\\repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\areas\\admin\\data\\repositories\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.core\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F0CF654-78F5-4C79-8C1B-572737AE8C05}|Test.DAL\\Test.DAL.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F0CF654-78F5-4C79-8C1B-572737AE8C05}|Test.DAL\\Test.DAL.csproj|solutionrelative:test.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\views\\quality\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\quality\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\controllers\\qualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\controllers\\qualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{782467CC-59E1-4CBF-A0DA-492AD7CC43D8}|Test.BL\\Test.BL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.bl\\viewmodels\\slideritemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782467CC-59E1-4CBF-A0DA-492AD7CC43D8}|Test.BL\\Test.BL.csproj|solutionrelative:test.bl\\viewmodels\\slideritemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.mvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\about\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.core\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\models\\slideritem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F0CF654-78F5-4C79-8C1B-572737AE8C05}|Test.DAL\\Test.DAL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F0CF654-78F5-4C79-8C1B-572737AE8C05}|Test.DAL\\Test.DAL.csproj|solutionrelative:test.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.mvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.mvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.mvc\\views\\quality\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\quality\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.mvc\\controllers\\qualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\controllers\\qualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.mvc\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.mvc\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.mvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{6D8A7C9D-F8E6-4696-8D49-293918743DD1}|Test.MVC\\Test.MVC.csproj|solutionrelative:test.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.core\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.core\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.core\\models\\base\\baseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.core\\models\\base\\baseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14C49D75-2F92-41C5-9BA7-C328D7F59DF7}|Test.Core\\Test.Core.csproj|solutionrelative:test.core\\models\\base\\baseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F0CF654-78F5-4C79-8C1B-572737AE8C05}|Test.DAL\\Test.DAL.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.dal\\migrations\\20250112205545_slideritemset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F0CF654-78F5-4C79-8C1B-572737AE8C05}|Test.DAL\\Test.DAL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.dal\\migrations\\20250112205545_slideritemset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F0CF654-78F5-4C79-8C1B-572737AE8C05}|Test.DAL\\Test.DAL.csproj|solutionrelative:test.dal\\migrations\\20250112205545_slideritemset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F0CF654-78F5-4C79-8C1B-572737AE8C05}|Test.DAL\\Test.DAL.csproj|c:\\users\\hp\\source\\repos\\testpr.mvc\\test.dal\\migrations\\20250112192905_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F0CF654-78F5-4C79-8C1B-572737AE8C05}|Test.DAL\\Test.DAL.csproj|c:\\users\\classtime\\desktop\\exam\\examrepowithmvc\\testpr.mvc\\test.dal\\migrations\\20250112192905_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F0CF654-78F5-4C79-8C1B-572737AE8C05}|Test.DAL\\Test.DAL.csproj|solutionrelative:test.dal\\migrations\\20250112192905_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -102,80 +110,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Test.MVC\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Test.MVC\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-12T20:24:10.372Z",
+              "DocumentIndex": 0,
+              "Title": "ReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Areas\\Admin\\Data\\Repositories\\Concretes\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "Test.MVC\\Areas\\Admin\\Data\\Repositories\\Concretes\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Areas\\Admin\\Data\\Repositories\\Concretes\\ReadRepository.cs",
+              "RelativeToolTip": "Test.MVC\\Areas\\Admin\\Data\\Repositories\\Concretes\\ReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:40:26.935Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Areas\\Admin\\Data\\Repositories\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "Test.MVC\\Areas\\Admin\\Data\\Repositories\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Areas\\Admin\\Data\\Repositories\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "Test.MVC\\Areas\\Admin\\Data\\Repositories\\Abstractions\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:39:21.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "Test.MVC\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "Test.MVC\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-12T20:24:12.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T20:24:12.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Program.cs",
               "RelativeDocumentMoniker": "Test.MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Program.cs",
               "RelativeToolTip": "Test.MVC\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAgwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T19:03:05.553Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "SliderItem.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Models\\SliderItem.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.Core\\Models\\SliderItem.cs",
               "RelativeDocumentMoniker": "Test.Core\\Models\\SliderItem.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Models\\SliderItem.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.Core\\Models\\SliderItem.cs",
               "RelativeToolTip": "Test.Core\\Models\\SliderItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T19:07:41.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T19:07:41.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\About\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Views\\About\\Index.cshtml",
               "RelativeDocumentMoniker": "Test.MVC\\Views\\About\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\About\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Views\\About\\Index.cshtml",
               "RelativeToolTip": "Test.MVC\\Views\\About\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-12T20:29:47.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T20:29:47.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "SliderItemVM.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.BL\\ViewModels\\SliderItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.BL\\ViewModels\\SliderItemVM.cs",
               "RelativeDocumentMoniker": "Test.BL\\ViewModels\\SliderItemVM.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.BL\\ViewModels\\SliderItemVM.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.BL\\ViewModels\\SliderItemVM.cs",
               "RelativeToolTip": "Test.BL\\ViewModels\\SliderItemVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -184,24 +202,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Test.MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Test.MVC\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-12T20:26:58.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T20:26:58.419Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\Contact\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Views\\Contact\\Index.cshtml",
               "RelativeDocumentMoniker": "Test.MVC\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Views\\Contact\\Index.cshtml",
               "RelativeToolTip": "Test.MVC\\Views\\Contact\\Index.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAgwCEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -209,11 +226,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "QualityController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\QualityController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Controllers\\QualityController.cs",
               "RelativeDocumentMoniker": "Test.MVC\\Controllers\\QualityController.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\QualityController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Controllers\\QualityController.cs",
               "RelativeToolTip": "Test.MVC\\Controllers\\QualityController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -221,11 +238,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Test.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\appsettings.json",
+              "RelativeToolTip": "Test.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-12T18:52:08.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Test.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Test.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-12T20:24:10.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "20250112205545_SliderItemSet.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.DAL\\Migrations\\20250112205545_SliderItemSet.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.DAL\\Migrations\\20250112205545_SliderItemSet.cs",
               "RelativeDocumentMoniker": "Test.DAL\\Migrations\\20250112205545_SliderItemSet.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.DAL\\Migrations\\20250112205545_SliderItemSet.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.DAL\\Migrations\\20250112205545_SliderItemSet.cs",
               "RelativeToolTip": "Test.DAL\\Migrations\\20250112205545_SliderItemSet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -233,11 +275,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.DAL\\Contexts\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.DAL\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Test.DAL\\Contexts\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.DAL\\Contexts\\AppDbContext.cs",
               "RelativeToolTip": "Test.DAL\\Contexts\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -245,11 +287,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Controllers\\ContactController.cs",
               "RelativeDocumentMoniker": "Test.MVC\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Controllers\\ContactController.cs",
               "RelativeToolTip": "Test.MVC\\Controllers\\ContactController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -257,11 +299,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ShopController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "Test.MVC\\Controllers\\ShopController.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Controllers\\ShopController.cs",
               "RelativeToolTip": "Test.MVC\\Controllers\\ShopController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -269,11 +311,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\Shop\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Views\\Shop\\Index.cshtml",
               "RelativeDocumentMoniker": "Test.MVC\\Views\\Shop\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Views\\Shop\\Index.cshtml",
               "RelativeToolTip": "Test.MVC\\Views\\Shop\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -281,11 +323,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\Quality\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Views\\Quality\\Index.cshtml",
               "RelativeDocumentMoniker": "Test.MVC\\Views\\Quality\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\Quality\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Views\\Quality\\Index.cshtml",
               "RelativeToolTip": "Test.MVC\\Views\\Quality\\Index.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAgwDwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -293,11 +335,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Test.MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Test.MVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -305,11 +347,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Controllers\\AboutController.cs",
               "RelativeDocumentMoniker": "Test.MVC\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\Controllers\\AboutController.cs",
               "RelativeToolTip": "Test.MVC\\Controllers\\AboutController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -317,11 +359,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "Test.MVC\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.MVC\\ScaffoldingReadMe.txt",
               "RelativeToolTip": "Test.MVC\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -329,23 +371,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\appsettings.json",
-              "RelativeDocumentMoniker": "Test.MVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.MVC\\appsettings.json",
-              "RelativeToolTip": "Test.MVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-12T18:52:08.199Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Models\\Base\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.Core\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Test.Core\\Models\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.Core\\Models\\Base\\BaseEntity.cs",
               "RelativeToolTip": "Test.Core\\Models\\Base\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -353,11 +383,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Models\\AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.Core\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "Test.Core\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.Core\\Models\\AppUser.cs",
               "RelativeToolTip": "Test.Core\\Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -365,11 +395,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "BaseAuditable.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Models\\Base\\BaseAuditable.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.Core\\Models\\Base\\BaseAuditable.cs",
               "RelativeDocumentMoniker": "Test.Core\\Models\\Base\\BaseAuditable.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.Core\\Models\\Base\\BaseAuditable.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.Core\\Models\\Base\\BaseAuditable.cs",
               "RelativeToolTip": "Test.Core\\Models\\Base\\BaseAuditable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -377,11 +407,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "20250112192905_Initial.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.DAL\\Migrations\\20250112192905_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.DAL\\Migrations\\20250112192905_Initial.cs",
               "RelativeDocumentMoniker": "Test.DAL\\Migrations\\20250112192905_Initial.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\TestPr.MVC\\Test.DAL\\Migrations\\20250112192905_Initial.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\exam\\ExamRepoWithMVC\\TestPr.MVC\\Test.DAL\\Migrations\\20250112192905_Initial.cs",
               "RelativeToolTip": "Test.DAL\\Migrations\\20250112192905_Initial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

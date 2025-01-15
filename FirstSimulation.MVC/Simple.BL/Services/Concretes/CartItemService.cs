@@ -6,7 +6,7 @@ using Simple.Core.Models;
 using Simple.DAL.Repositories.Abstractions;
 
 namespace Simple.BL.Services.Concretes;
-
+//https://www.free-css.com/free-css-templates/page292/plumberz
 public class CartItemService : ICartItemService
 {
     private readonly ICartItemWriteReository _cartItemWriteReository;
@@ -24,12 +24,12 @@ public class CartItemService : ICartItemService
     {
         CartItem cartItem = _mapper.Map<CartItem>(entityDTO);
         string root = _webHostEnvironment.WebRootPath;
-        string fileName = CartDTO.Image.FileName;
+        string fileName = entityDTO.Image.FileName;
         string filePath = root + "/uploads/carditem/" + fileName;
 
         using (FileStream stream = new FileStream(filePath.Replace("\\", "/"), FileMode.Create))
         {
-            await CartDTO.Image.CopyToAsync(stream);
+            await entityDTO.Image.CopyToAsync(stream);
         }
         entityDTO.ImageURL = fileName;
         var entity = await _cartItemWriteReository.CreateAsync(cartItem);
