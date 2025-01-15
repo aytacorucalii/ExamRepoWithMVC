@@ -1,18 +1,12 @@
-﻿@using Education.BL.DTOs.NewsDTOs;
-@using Education.Core.Models
-@model ICollection<News>;
+﻿@using Education.BL.DTOs
+@model ICollection<NewsCreateDTO>;
 
-<!-- Begin Page Content -->
-<div class="container-fluid"
+
+<div class="container-fluid">
 
     <!-- Page Heading -->
-    <h1 class="h3 mb-2 text-gray-800">Products</h1>
+    <h1 class="h3 mb-2 text-gray-800">News Tables</h1>
 
-    <a asp-action="Create" asp-controller="News" asp-area="Admin">
-        <button class="btn btn-success mb-3">
-            Create
-        </button>
-    </a>
 
     <!-- DataTales Example -->
     <div class="card shadow mb-4">
@@ -21,39 +15,43 @@
         </div>
         <div class="card-body">
             <div class="table-responsive">
+                <a asp-area="Admin" asp-controller="Home" asp-action="Create" class="btn btn-success mb-3">Create</a>
                 <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
                     <thead>
                         <tr>
-                            <th>Title</th>
-                            <th>Description</th>
+                            <th>#</th>
+                            <th>Discriptions</th>
+                            <th>CatagoryId</th>
+                            <th>IsDeleted</th>
+                            <th>ImageUrl</th>
                             <th>Update</th>
-                            <th>Delete</th>
+                            <th>Soft Delete</th>
                         </tr>
                     </thead>
+                    <tfoot>
+                        <tr>
+                            <th>#</th>
+                            <th>Discriptions</th>
+                            <th>CatagoryId</th>
+                            <th>IsDeleted</th>
+                            <th>ImageUrl</th>
+                            <th>Update</th>
+                            <th>Soft Delete</th>
+                        </tr>
+                    </tfoot>
                     <tbody>
-
-                        @foreach (News item in Model)
+                        @foreach (var item in Model)
                         {
-                            <tr>
-                                <td>@item.Title</td>
-                                <td>@item.Description</td>
-                                     <td>@item.ImgUrl</td>
-                                <td>
-                                    <a asp-controller="News" asp-action="Update" asp-area="Admin" asp-route-id="@item.Id">
-                                        <button class="btn btn-warning">
-                                            Update
-                                        </button>
-                                    </a>
-                                </td>
-                                <td>
-                                    <a asp-controller="News" asp-action="Delete" asp-area="Admin" asp-route-id="@item.Id">
-                                        <button class="btn btn-danger">
-                                            Delete
-                                        </button>
-                                    </a>
-                                </td>
-                            </tr>
 
+                            <tr>
+                                <td>@item.Id</td>
+                                <td>@item.Description</td>
+                                <td>@item.CategoryId</td>
+                                <td>@item.Isdeleted</td>
+                                <td><img src="~/ImageUpload/@item.Img" alt="Alternate Text" /></td>
+                                <td><a class="btn btn-success">Update</a></td>
+                                <td><a asp-area="Admin" asp-controller="Home" asp-action="SoftDelete" asp-route-id="@item.Id" class="btn btn-danger">Soft Delete</a></td>
+                            </tr>
                         }
 
                     </tbody>

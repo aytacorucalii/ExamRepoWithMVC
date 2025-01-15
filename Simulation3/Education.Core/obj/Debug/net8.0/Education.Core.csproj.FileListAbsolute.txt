@@ -9,3 +9,15 @@ C:\Users\classtime\source\repos\Simulation3\Education.Core\obj\Debug\net8.0\Educ
 C:\Users\classtime\source\repos\Simulation3\Education.Core\obj\Debug\net8.0\refint\Education.Core.dll
 C:\Users\classtime\source\repos\Simulation3\Education.Core\obj\Debug\net8.0\Education.Core.pdb
 C:\Users\classtime\source\repos\Simulation3\Education.Core\obj\Debug\net8.0\ref\Education.Core.dll
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.Core\bin\Debug\net8.0\Education.Core.deps.json
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.Core\bin\Debug\net8.0\Education.Core.dll
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.Core\bin\Debug\net8.0\Education.Core.pdb
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.Core\obj\Debug\net8.0\Education.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.Core\obj\Debug\net8.0\Education.Core.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.Core\obj\Debug\net8.0\Education.Core.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.Core\obj\Debug\net8.0\Education.Core.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.Core\obj\Debug\net8.0\Education.Core.sourcelink.json
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.Core\obj\Debug\net8.0\Education.Core.dll
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.Core\obj\Debug\net8.0\refint\Education.Core.dll
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.Core\obj\Debug\net8.0\Education.Core.pdb
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.Core\obj\Debug\net8.0\ref\Education.Core.dll
