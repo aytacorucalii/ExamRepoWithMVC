@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5FEE0559-6830-4968-9114-F70203AEA091}|Plumberz.MVC\\Plumberz.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulation2.mvc\\plumberz.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FEE0559-6830-4968-9114-F70203AEA091}|Plumberz.MVC\\Plumberz.MVC.csproj|solutionrelative:plumberz.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E381C3AA-CB4D-414A-ABBD-35BC7AB86AF7}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulation2.mvc\\plumberz.bl\\profiles\\technicianprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E381C3AA-CB4D-414A-ABBD-35BC7AB86AF7}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\profiles\\technicianprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED07ED62-1BC1-4E63-8C1E-5B31442DA019}|Plumberz.DAL\\Plumberz.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulation2.mvc\\plumberz.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED07ED62-1BC1-4E63-8C1E-5B31442DA019}|Plumberz.DAL\\Plumberz.DAL.csproj|solutionrelative:plumberz.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60267125-3E26-4989-B961-724241B9FB62}|Plumberz.Core\\Plumberz.Core.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulation2.mvc\\plumberz.core\\models\\technician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60267125-3E26-4989-B961-724241B9FB62}|Plumberz.Core\\Plumberz.Core.csproj|solutionrelative:plumberz.core\\models\\technician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED07ED62-1BC1-4E63-8C1E-5B31442DA019}|Plumberz.DAL\\Plumberz.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulation2.mvc\\plumberz.dal\\plumberz.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED07ED62-1BC1-4E63-8C1E-5B31442DA019}|Plumberz.DAL\\Plumberz.DAL.csproj|solutionrelative:plumberz.dal\\plumberz.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60267125-3E26-4989-B961-724241B9FB62}|Plumberz.Core\\Plumberz.Core.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulation2.mvc\\plumberz.core\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60267125-3E26-4989-B961-724241B9FB62}|Plumberz.Core\\Plumberz.Core.csproj|solutionrelative:plumberz.core\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED07ED62-1BC1-4E63-8C1E-5B31442DA019}|Plumberz.DAL\\Plumberz.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulation2.mvc\\plumberz.dal\\configurations\\serviceconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED07ED62-1BC1-4E63-8C1E-5B31442DA019}|Plumberz.DAL\\Plumberz.DAL.csproj|solutionrelative:plumberz.dal\\configurations\\serviceconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FEE0559-6830-4968-9114-F70203AEA091}|Plumberz.MVC\\Plumberz.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulation2.mvc\\plumberz.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FEE0559-6830-4968-9114-F70203AEA091}|Plumberz.MVC\\Plumberz.MVC.csproj|solutionrelative:plumberz.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5FEE0559-6830-4968-9114-F70203AEA091}|Plumberz.MVC\\Plumberz.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulation2.mvc\\plumberz.mvc\\areas\\admin\\views\\technician\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5FEE0559-6830-4968-9114-F70203AEA091}|Plumberz.MVC\\Plumberz.MVC.csproj|solutionrelative:plumberz.mvc\\areas\\admin\\views\\technician\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -23,20 +55,12 @@
       "RelativeMoniker": "D:0:0:{ED07ED62-1BC1-4E63-8C1E-5B31442DA019}|Plumberz.DAL\\Plumberz.DAL.csproj|solutionrelative:plumberz.dal\\repositories\\concretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED07ED62-1BC1-4E63-8C1E-5B31442DA019}|Plumberz.DAL\\Plumberz.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulation2.mvc\\plumberz.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED07ED62-1BC1-4E63-8C1E-5B31442DA019}|Plumberz.DAL\\Plumberz.DAL.csproj|solutionrelative:plumberz.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E381C3AA-CB4D-414A-ABBD-35BC7AB86AF7}|Plumberz.BL\\Plumberz.BL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulation2.mvc\\plumberz.bl\\services\\abstractions\\itechnicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E381C3AA-CB4D-414A-ABBD-35BC7AB86AF7}|Plumberz.BL\\Plumberz.BL.csproj|solutionrelative:plumberz.bl\\services\\abstractions\\itechnicianservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FEE0559-6830-4968-9114-F70203AEA091}|Plumberz.MVC\\Plumberz.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulation2.mvc\\plumberz.mvc\\areas\\admin\\controllers\\dashbardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5FEE0559-6830-4968-9114-F70203AEA091}|Plumberz.MVC\\Plumberz.MVC.csproj|solutionrelative:plumberz.mvc\\areas\\admin\\controllers\\dashbardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60267125-3E26-4989-B961-724241B9FB62}|Plumberz.Core\\Plumberz.Core.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulation2.mvc\\plumberz.core\\models\\technician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60267125-3E26-4989-B961-724241B9FB62}|Plumberz.Core\\Plumberz.Core.csproj|solutionrelative:plumberz.core\\models\\technician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FEE0559-6830-4968-9114-F70203AEA091}|Plumberz.MVC\\Plumberz.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulation2.mvc\\plumberz.mvc\\areas\\admin\\views\\technician\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -74,11 +98,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Plumberz.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Plumberz.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T22:39:50.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TechnicianProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.BL\\Profiles\\TechnicianProfile.cs",
+              "RelativeDocumentMoniker": "Plumberz.BL\\Profiles\\TechnicianProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.BL\\Profiles\\TechnicianProfile.cs",
+              "RelativeToolTip": "Plumberz.BL\\Profiles\\TechnicianProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T21:28:42.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Plumberz.DAL",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.DAL\\Plumberz.DAL.csproj",
+              "RelativeDocumentMoniker": "Plumberz.DAL\\Plumberz.DAL.csproj",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.DAL\\Plumberz.DAL.csproj",
+              "RelativeToolTip": "Plumberz.DAL\\Plumberz.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-14T20:07:42.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.Core\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Plumberz.Core\\Models\\Service.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.Core\\Models\\Service.cs",
+              "RelativeToolTip": "Plumberz.Core\\Models\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:07:41.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.DAL\\Configurations\\ServiceConfig.cs",
+              "RelativeDocumentMoniker": "Plumberz.DAL\\Configurations\\ServiceConfig.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.DAL\\Configurations\\ServiceConfig.cs",
+              "RelativeToolTip": "Plumberz.DAL\\Configurations\\ServiceConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T20:04:39.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Plumberz.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.MVC\\appsettings.json",
+              "RelativeToolTip": "Plumberz.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T19:56:29.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Technician.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.Core\\Models\\Technician.cs",
+              "RelativeDocumentMoniker": "Plumberz.Core\\Models\\Technician.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.Core\\Models\\Technician.cs",
+              "RelativeToolTip": "Plumberz.Core\\Models\\Technician.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:20:13.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Plumberz.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
@@ -86,11 +201,12 @@
               "RelativeToolTip": "Plumberz.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T14:45:17.812Z"
+              "WhenOpened": "2025-01-14T14:45:17.812Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "ITechnicianService.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.BL\\Services\\Abstractions\\ITechnicianService.cs",
               "RelativeDocumentMoniker": "Plumberz.BL\\Services\\Abstractions\\ITechnicianService.cs",
@@ -102,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "TechnicianValidation.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.BL\\Validations\\TechnicianValidation.cs",
               "RelativeDocumentMoniker": "Plumberz.BL\\Validations\\TechnicianValidation.cs",
@@ -114,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.MVC\\Program.cs",
               "RelativeDocumentMoniker": "Plumberz.MVC\\Program.cs",
@@ -127,18 +243,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Technician.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.Core\\Models\\Technician.cs",
-              "RelativeDocumentMoniker": "Plumberz.Core\\Models\\Technician.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.Core\\Models\\Technician.cs",
-              "RelativeToolTip": "Plumberz.Core\\Models\\Technician.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T14:20:13.434Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.MVC\\Areas\\Admin\\Views\\Technician\\Index.cshtml",
               "RelativeDocumentMoniker": "Plumberz.MVC\\Areas\\Admin\\Views\\Technician\\Index.cshtml",
@@ -151,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.DAL\\Repositories\\Concretes\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Plumberz.DAL\\Repositories\\Concretes\\GenericRepository.cs",
@@ -163,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "20250114145411_AddProp.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.DAL\\Migrations\\20250114145411_AddProp.cs",
               "RelativeDocumentMoniker": "Plumberz.DAL\\Migrations\\20250114145411_AddProp.cs",
@@ -175,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "TechnicianDTO.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.BL\\DTOs\\TechnicianDTOs\\TechnicianDTO.cs",
               "RelativeDocumentMoniker": "Plumberz.BL\\DTOs\\TechnicianDTOs\\TechnicianDTO.cs",
@@ -187,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "ServiceConfig.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.BL\\Configurations\\ServiceConfig.cs",
               "RelativeDocumentMoniker": "Plumberz.BL\\Configurations\\ServiceConfig.cs",
@@ -199,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "DashbardController.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.MVC\\Areas\\Admin\\Controllers\\DashbardController.cs",
               "RelativeDocumentMoniker": "Plumberz.MVC\\Areas\\Admin\\Controllers\\DashbardController.cs",
@@ -211,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.MVC\\Areas\\Admin\\Views\\Technician\\Update.cshtml",
               "RelativeDocumentMoniker": "Plumberz.MVC\\Areas\\Admin\\Views\\Technician\\Update.cshtml",
@@ -223,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.MVC\\Areas\\Admin\\Views\\Technician\\Create.cshtml",
               "RelativeDocumentMoniker": "Plumberz.MVC\\Areas\\Admin\\Views\\Technician\\Create.cshtml",
@@ -235,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Plumberz.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -247,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "TechnicianController.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.MVC\\Areas\\Admin\\Controllers\\TechnicianController.cs",
               "RelativeDocumentMoniker": "Plumberz.MVC\\Areas\\Admin\\Controllers\\TechnicianController.cs",
@@ -259,7 +363,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "TechnicianService.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\Simulation2.MVC\\Plumberz.BL\\Services\\Concretes\\TechnicianService.cs",
               "RelativeDocumentMoniker": "Plumberz.BL\\Services\\Concretes\\TechnicianService.cs",

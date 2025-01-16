@@ -7796,23 +7796,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\classtime\\.nuget\\packages\\": {},
+    "C:\\Users\\Hp\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\classtime\\source\\repos\\SimulationPr4\\Pr.MVC\\Pr.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Pr.MVC.csproj",
       "projectName": "Pr.MVC",
-      "projectPath": "C:\\Users\\classtime\\source\\repos\\SimulationPr4\\Pr.MVC\\Pr.MVC.csproj",
-      "packagesPath": "C:\\Users\\classtime\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\classtime\\source\\repos\\SimulationPr4\\Pr.MVC\\obj\\",
+      "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Pr.MVC.csproj",
+      "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\classtime\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -7828,8 +7828,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\classtime\\source\\repos\\SimulationPr4\\Pr.BL\\Pr.BL.csproj": {
-              "projectPath": "C:\\Users\\classtime\\source\\repos\\SimulationPr4\\Pr.BL\\Pr.BL.csproj"
+            "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\Pr.BL.csproj": {
+              "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\Pr.BL.csproj"
             }
           }
         }
@@ -7843,8 +7843,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -7880,7 +7879,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

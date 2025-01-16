@@ -2,10 +2,18 @@ using Microsoft.EntityFrameworkCore;
 using Pr.DAL.Contexts;
 using Pr.DAL.Configurations;
 using Pr.BL.Configurations.ServiceConfig;
+using Pr.BL.Profiles;
+using FluentValidation.AspNetCore;
+using FluentValidation;
+using Pr.BL.Validations.Doctors;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddRepoConfig();
 builder.Services.AddConfig();
+builder.Services.AddAutoMapper(typeof(DoctorProfile));
+builder.Services.AddValidatorsFromAssembly(typeof(DoctorValidation).Assembly);
+builder.Services.AddFluentValidationAutoValidation().AddFluentValidationClientsideAdapters();
+
 builder.Services.AddDbContext<AppDbContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("MsSql"));
