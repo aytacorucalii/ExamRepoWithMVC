@@ -272,3 +272,16 @@ C:\Users\classtime\source\repos\Simulation3\Education.MVC\bin\Debug\net8.0\AutoM
 C:\Users\classtime\source\repos\Simulation3\Education.MVC\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\classtime\source\repos\Simulation3\Education.MVC\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\classtime\source\repos\Simulation3\Education.MVC\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.MVC\obj\Debug\net8.0\Education.MVC.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.MVC\obj\Debug\net8.0\Education.MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.MVC\obj\Debug\net8.0\Education.MVC.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.MVC\obj\Debug\net8.0\Education.MVC.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.MVC\obj\Debug\net8.0\Education.MVC.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.MVC\obj\Debug\net8.0\Education.MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.MVC\obj\Debug\net8.0\Education.MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.MVC\obj\Debug\net8.0\Education.MVC.RazorAssemblyInfo.cache
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.MVC\obj\Debug\net8.0\Education.MVC.RazorAssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.MVC\obj\Debug\net8.0\Education.MVC.sourcelink.json
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.MVC\obj\Debug\net8.0\Education.MVC.dll
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.MVC\obj\Debug\net8.0\refint\Education.MVC.dll
+C:\Users\Hp\OneDrive\Desktop\ExamRepoWitjMVC\Simulation3\Education.MVC\obj\Debug\net8.0\Education.MVC.pdb

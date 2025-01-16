@@ -9,10 +9,11 @@ namespace Education.BL.DTOs.NewsDTOs
 {
     public class NewsCreateDTO
     {
-       
+        public int Id { get; set; }
         public string Title { get; set; }
         public string Description { get; set; }
         public IFormFile Img { get; set; }
         public int CategoryId { get; set; }
+        public bool Isdeleted { get; set; }
     }
 }
