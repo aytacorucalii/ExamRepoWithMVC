@@ -13,5 +13,6 @@ namespace Pr.Core.Models
         public string SurName { get; set; }
         public int DepartmentId { get; set; }
         public Department Department { get; set; }
+        public string ImgURL { get; set; }
     }
 }

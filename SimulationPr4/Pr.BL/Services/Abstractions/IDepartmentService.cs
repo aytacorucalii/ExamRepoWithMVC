@@ -8,8 +8,8 @@ namespace Pr.BL.Services.Abstractions
         Task<ICollection<Department>> GetAllAsync();
         Task<Department> GetByIdAsync(int id);
         Task<Department> CreateAsync(DepartmentCreateDTO entity);
-        Task Update(DepartmentUpdateDTO entity);
-        Task DeleteAsync(int id);
+        Task<Department> Update(DepartmentUpdateDTO entity);
+        Task<Department> DeleteAsync(int id);
      
     }
 }

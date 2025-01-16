@@ -14,7 +14,7 @@ namespace Pr.BL.Services.Concretes
         Task<ICollection<Doctor>> GetAllAsync();
         Task<Doctor> GetByIdAsync(int id);
         Task<Doctor> CreateAsync(DoctorCreateDTO entity);
-        Task Update(DoctorUpdateDTO entity);
-        Task DeleteAsync(int id);
+        Task<Doctor> Update(DoctorUpdateDTO entity);
+        Task<Doctor> DeleteAsync(int id);
     }
 }

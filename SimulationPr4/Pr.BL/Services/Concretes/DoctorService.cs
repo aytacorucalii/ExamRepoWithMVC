@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Hosting;
 using Pr.BL.DTOs.DoctorDTOs;
 using Pr.BL.Services.Abstractions;
 using Pr.Core.Models;
@@ -12,35 +13,48 @@ namespace Pr.BL.Services.Concretes
         private readonly IMapper _mapper;
         private readonly IWebHostEnvironment _webHostEnvironment;
 
-        public DoctorService(IDoctorRepository repository, IMapper mapper)
+        public DoctorService(IDoctorRepository repository, IMapper mapper, IWebHostEnvironment webHostEnvironment)
         {
             _repository = repository;
             _mapper = mapper;
+            _webHostEnvironment = webHostEnvironment;
         }
 
-        public Task<ICollection<Doctor>> GetAllAsync()
+        public async Task<ICollection<Doctor>> GetAllAsync()
         {
-            throw new NotImplementedException();
+           return await _repository.GetAllAsync();
         }
 
-        public Task<Doctor> GetByIdAsync(int id)
+        public async Task<Doctor> GetByIdAsync(int id)
         {
-            throw new NotImplementedException();
+          var entity =  await _repository.GetByIdAsync(id);
+            return entity;
         }
-        public Task<Doctor> CreateAsync(DoctorCreateDTO entity)
+        public async Task<Doctor> CreateAsync(DoctorCreateDTO entityDTo)
         {
-            throw new NotImplementedException();
+            Doctor created = _mapper.Map<Doctor>(entityDTo);
+            created.CreatedDate = DateTime.UtcNow.AddHours(4);
+            await _repository.CreateAsync(created);
+            await _repository.SaveChangesAsync();
+            return created;
         }
 
-        public Task DeleteAsync(int id)
+        public async Task<Doctor> DeleteAsync(int id)
         {
-            throw new NotImplementedException();
+           var entity = await _repository.GetByIdAsync(id);
+            entity.DeleteDate = DateTime.UtcNow.AddHours(4);
+            await _repository.DeleteAsync(entity);
+            await _repository.SaveChangesAsync();
+            return entity;
         }
 
 
-        public Task Update(DoctorUpdateDTO entity)
+        public async Task<Doctor> Update(DoctorUpdateDTO entityDTo)
         {
-            throw new NotImplementedException();
+            Doctor created = _mapper.Map<Doctor>(entityDTo);
+            await _repository.Update(created);
+            await _repository.SaveChangesAsync();
+            return created;
         }
     }
 }

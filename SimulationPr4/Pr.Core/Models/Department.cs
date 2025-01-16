@@ -10,6 +10,7 @@ namespace Pr.Core.Models;
 public class Department: BaseAuditable
 {
     public string Name { get; set; }
+    public string ImgURL { get; set; }
     public ICollection<Doctor>? Doctors { get; set; }
 
 }

@@ -1,36 +1,46 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Pr.Core.Models.Base;
+using Pr.DAL.Contexts;
 using Pr.DAL.Repositories.Abstractions;
 
 namespace Pr.DAL.Repositories.Concretes
 {
     public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity, new()
     {
-        public DbSet<T> Table => throw new NotImplementedException();
+        private readonly AppDbContext _appDbContext;
 
-        public Task<T> CreateAsync(T entity)
+        public GenericRepository(AppDbContext appDbContext)
         {
-            throw new NotImplementedException();
+            _appDbContext = appDbContext;
         }
 
-        public Task DeleteAsync(T entity)
+        public DbSet<T> Table => _appDbContext.Set<T>();
+        public async Task<ICollection<T>> GetAllAsync()
         {
-            throw new NotImplementedException();
+            return await Table.Where(x=>!x.IsDeleted).ToListAsync();
         }
 
-        public Task<ICollection<T>> GetAllAsync()
+        public async Task<T> GetByIdAsync(int id)
         {
-            throw new NotImplementedException();
+           return await Table.FirstOrDefaultAsync(x => x.Id == id);
         }
 
-        public Task<T> GetByIdAsync(int id)
+        public async Task<T> CreateAsync(T entity)
         {
-            throw new NotImplementedException();
+            await Table.AddAsync(entity);
+            return entity;
         }
 
-        public Task<int> SaveChangesAsync()
+        public async Task DeleteAsync(T entity)
         {
-            throw new NotImplementedException();
+             Table.Remove(entity);
+        }
+
+
+        public async Task<int> SaveChangesAsync()
+        {
+           return await _appDbContext.SaveChangesAsync();
+
         }
 
         public Task Update(T entity)

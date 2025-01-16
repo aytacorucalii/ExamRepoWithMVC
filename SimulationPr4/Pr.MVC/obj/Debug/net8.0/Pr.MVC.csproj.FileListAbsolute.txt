@@ -267,3 +267,8 @@ C:\Users\classtime\source\repos\SimulationPr4\Pr.MVC\bin\Debug\net8.0\runtimes\w
 C:\Users\classtime\source\repos\SimulationPr4\Pr.MVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\classtime\source\repos\SimulationPr4\Pr.MVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\classtime\source\repos\SimulationPr4\Pr.MVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\classtime\source\repos\SimulationPr4\Pr.MVC\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\classtime\source\repos\SimulationPr4\Pr.MVC\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\classtime\source\repos\SimulationPr4\Pr.MVC\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\classtime\source\repos\SimulationPr4\Pr.MVC\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\classtime\source\repos\SimulationPr4\Pr.MVC\obj\Debug\net8.0\Pr.MVC.MvcApplicationPartsAssemblyInfo.cs

@@ -6,4 +6,8 @@ namespace Pr.DAL.Repositories.Abstractions
     {
 
     }
+    public interface IDepartmentRepository : IGenericRepository<Department>
+    {
+
+    }
 }

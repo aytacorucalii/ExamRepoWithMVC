@@ -1,7 +1,11 @@
 using Microsoft.EntityFrameworkCore;
 using Pr.DAL.Contexts;
+using Pr.DAL.Configurations;
+using Pr.BL.Configurations.ServiceConfig;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddRepoConfig();
+builder.Services.AddConfig();
 builder.Services.AddDbContext<AppDbContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("MsSql"));
