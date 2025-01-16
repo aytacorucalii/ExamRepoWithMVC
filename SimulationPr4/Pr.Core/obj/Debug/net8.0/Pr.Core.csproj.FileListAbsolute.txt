@@ -1,0 +1,11 @@
+C:\Users\classtime\source\repos\SimulationPr4\Pr.Core\bin\Debug\net8.0\Pr.Core.deps.json
+C:\Users\classtime\source\repos\SimulationPr4\Pr.Core\bin\Debug\net8.0\Pr.Core.dll
+C:\Users\classtime\source\repos\SimulationPr4\Pr.Core\bin\Debug\net8.0\Pr.Core.pdb
+C:\Users\classtime\source\repos\SimulationPr4\Pr.Core\obj\Debug\net8.0\Pr.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\SimulationPr4\Pr.Core\obj\Debug\net8.0\Pr.Core.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\SimulationPr4\Pr.Core\obj\Debug\net8.0\Pr.Core.AssemblyInfo.cs
+C:\Users\classtime\source\repos\SimulationPr4\Pr.Core\obj\Debug\net8.0\Pr.Core.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\SimulationPr4\Pr.Core\obj\Debug\net8.0\Pr.Core.dll
+C:\Users\classtime\source\repos\SimulationPr4\Pr.Core\obj\Debug\net8.0\refint\Pr.Core.dll
+C:\Users\classtime\source\repos\SimulationPr4\Pr.Core\obj\Debug\net8.0\Pr.Core.pdb
+C:\Users\classtime\source\repos\SimulationPr4\Pr.Core\obj\Debug\net8.0\ref\Pr.Core.dll

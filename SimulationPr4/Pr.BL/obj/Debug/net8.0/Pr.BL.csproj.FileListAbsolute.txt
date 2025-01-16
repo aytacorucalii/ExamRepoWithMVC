@@ -1,0 +1,17 @@
+C:\Users\classtime\source\repos\SimulationPr4\Pr.BL\bin\Debug\net8.0\Pr.BL.deps.json
+C:\Users\classtime\source\repos\SimulationPr4\Pr.BL\bin\Debug\net8.0\Pr.BL.dll
+C:\Users\classtime\source\repos\SimulationPr4\Pr.BL\bin\Debug\net8.0\Pr.BL.pdb
+C:\Users\classtime\source\repos\SimulationPr4\Pr.BL\bin\Debug\net8.0\Pr.Core.dll
+C:\Users\classtime\source\repos\SimulationPr4\Pr.BL\bin\Debug\net8.0\Pr.DAL.dll
+C:\Users\classtime\source\repos\SimulationPr4\Pr.BL\bin\Debug\net8.0\Pr.DAL.pdb
+C:\Users\classtime\source\repos\SimulationPr4\Pr.BL\bin\Debug\net8.0\Pr.Core.pdb
+C:\Users\classtime\source\repos\SimulationPr4\Pr.BL\obj\Debug\net8.0\Pr.BL.csproj.AssemblyReference.cache
+C:\Users\classtime\source\repos\SimulationPr4\Pr.BL\obj\Debug\net8.0\Pr.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\SimulationPr4\Pr.BL\obj\Debug\net8.0\Pr.BL.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\SimulationPr4\Pr.BL\obj\Debug\net8.0\Pr.BL.AssemblyInfo.cs
+C:\Users\classtime\source\repos\SimulationPr4\Pr.BL\obj\Debug\net8.0\Pr.BL.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\SimulationPr4\Pr.BL\obj\Debug\net8.0\Pr.BL.csproj.Up2Date
+C:\Users\classtime\source\repos\SimulationPr4\Pr.BL\obj\Debug\net8.0\Pr.BL.dll
+C:\Users\classtime\source\repos\SimulationPr4\Pr.BL\obj\Debug\net8.0\refint\Pr.BL.dll
+C:\Users\classtime\source\repos\SimulationPr4\Pr.BL\obj\Debug\net8.0\Pr.BL.pdb
+C:\Users\classtime\source\repos\SimulationPr4\Pr.BL\obj\Debug\net8.0\ref\Pr.BL.dll
