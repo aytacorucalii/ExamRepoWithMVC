@@ -1,0 +1,17 @@
+C:\Users\classtime\source\repos\Simulation5\S.BL\bin\Debug\net8.0\S.BL.deps.json
+C:\Users\classtime\source\repos\Simulation5\S.BL\bin\Debug\net8.0\S.BL.dll
+C:\Users\classtime\source\repos\Simulation5\S.BL\bin\Debug\net8.0\S.BL.pdb
+C:\Users\classtime\source\repos\Simulation5\S.BL\bin\Debug\net8.0\S.Core.dll
+C:\Users\classtime\source\repos\Simulation5\S.BL\bin\Debug\net8.0\S.DAL.dll
+C:\Users\classtime\source\repos\Simulation5\S.BL\bin\Debug\net8.0\S.DAL.pdb
+C:\Users\classtime\source\repos\Simulation5\S.BL\bin\Debug\net8.0\S.Core.pdb
+C:\Users\classtime\source\repos\Simulation5\S.BL\obj\Debug\net8.0\S.BL.csproj.AssemblyReference.cache
+C:\Users\classtime\source\repos\Simulation5\S.BL\obj\Debug\net8.0\S.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\Simulation5\S.BL\obj\Debug\net8.0\S.BL.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\Simulation5\S.BL\obj\Debug\net8.0\S.BL.AssemblyInfo.cs
+C:\Users\classtime\source\repos\Simulation5\S.BL\obj\Debug\net8.0\S.BL.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\Simulation5\S.BL\obj\Debug\net8.0\S.BL.csproj.Up2Date
+C:\Users\classtime\source\repos\Simulation5\S.BL\obj\Debug\net8.0\S.BL.dll
+C:\Users\classtime\source\repos\Simulation5\S.BL\obj\Debug\net8.0\refint\S.BL.dll
+C:\Users\classtime\source\repos\Simulation5\S.BL\obj\Debug\net8.0\S.BL.pdb
+C:\Users\classtime\source\repos\Simulation5\S.BL\obj\Debug\net8.0\ref\S.BL.dll

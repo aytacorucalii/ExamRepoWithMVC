@@ -1,0 +1,785 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\classtime\\source\\repos\\Simulation5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.mvc\\areas\\admin\\controllers\\atractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|solutionrelative:s.mvc\\areas\\admin\\controllers\\atractioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.bl\\services\\concretes\\atractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|solutionrelative:s.bl\\services\\concretes\\atractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.bl\\dtos\\atractiondtos\\atractioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|solutionrelative:s.bl\\dtos\\atractiondtos\\atractioncreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|solutionrelative:s.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.mvc\\areas\\admin\\views\\atraction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|solutionrelative:s.mvc\\areas\\admin\\views\\atraction\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|solutionrelative:s.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.mvc\\areas\\admin\\views\\atraction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|solutionrelative:s.mvc\\areas\\admin\\views\\atraction\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|solutionrelative:s.mvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|solutionrelative:s.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E205966-CC41-4B7B-9260-AB73DE87F970}|S.DAL\\S.DAL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.dal\\repositories\\concretes\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E205966-CC41-4B7B-9260-AB73DE87F970}|S.DAL\\S.DAL.csproj|solutionrelative:s.dal\\repositories\\concretes\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|solutionrelative:s.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|solutionrelative:s.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|solutionrelative:s.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E205966-CC41-4B7B-9260-AB73DE87F970}|S.DAL\\S.DAL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.dal\\repositories\\concretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E205966-CC41-4B7B-9260-AB73DE87F970}|S.DAL\\S.DAL.csproj|solutionrelative:s.dal\\repositories\\concretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E205966-CC41-4B7B-9260-AB73DE87F970}|S.DAL\\S.DAL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E205966-CC41-4B7B-9260-AB73DE87F970}|S.DAL\\S.DAL.csproj|solutionrelative:s.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.bl\\services\\abstractions\\iatractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|solutionrelative:s.bl\\services\\abstractions\\iatractionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Migrations\\20250117125214_Changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:S.DAL\\Migrations\\20250117125214_Changes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.bl\\validations\\atractionvalidation\\atractionupdatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|solutionrelative:s.bl\\validations\\atractionvalidation\\atractionupdatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.bl\\dtos\\atractiondtos\\atractionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|solutionrelative:s.bl\\dtos\\atractiondtos\\atractionupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.bl\\validations\\categoryvalidations\\categoryupdatevalidtion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|solutionrelative:s.bl\\validations\\categoryvalidations\\categoryupdatevalidtion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.bl\\validations\\categoryvalidations\\categorycreatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|solutionrelative:s.bl\\validations\\categoryvalidations\\categorycreatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.bl\\validations\\atractionvalidation\\atractionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|solutionrelative:s.bl\\validations\\atractionvalidation\\atractionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.bl\\dtos\\categorydtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|solutionrelative:s.bl\\dtos\\categorydtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.bl\\configurations\\serviceconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|solutionrelative:s.bl\\configurations\\serviceconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.bl\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|solutionrelative:s.bl\\profiles\\categoryprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.bl\\profiles\\atractionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|solutionrelative:s.bl\\profiles\\atractionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.bl\\services\\concretes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|solutionrelative:s.bl\\services\\concretes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.bl\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F36391B-4781-42B0-9785-2EE3AB87E103}|S.BL\\S.BL.csproj|solutionrelative:s.bl\\services\\abstractions\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E205966-CC41-4B7B-9260-AB73DE87F970}|S.DAL\\S.DAL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.dal\\repositories\\abstractions\\iatractionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E205966-CC41-4B7B-9260-AB73DE87F970}|S.DAL\\S.DAL.csproj|solutionrelative:s.dal\\repositories\\abstractions\\iatractionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|solutionrelative:s.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|solutionrelative:s.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|solutionrelative:s.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E205966-CC41-4B7B-9260-AB73DE87F970}|S.DAL\\S.DAL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.dal\\repositories\\concretes\\atractionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E205966-CC41-4B7B-9260-AB73DE87F970}|S.DAL\\S.DAL.csproj|solutionrelative:s.dal\\repositories\\concretes\\atractionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86A50E3-0BB3-4CB1-BCEA-6F326CC3D155}|S.Core\\S.Core.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86A50E3-0BB3-4CB1-BCEA-6F326CC3D155}|S.Core\\S.Core.csproj|solutionrelative:s.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A86A50E3-0BB3-4CB1-BCEA-6F326CC3D155}|S.Core\\S.Core.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A86A50E3-0BB3-4CB1-BCEA-6F326CC3D155}|S.Core\\S.Core.csproj|solutionrelative:s.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E205966-CC41-4B7B-9260-AB73DE87F970}|S.DAL\\S.DAL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.dal\\configrations\\repoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E205966-CC41-4B7B-9260-AB73DE87F970}|S.DAL\\S.DAL.csproj|solutionrelative:s.dal\\configrations\\repoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E205966-CC41-4B7B-9260-AB73DE87F970}|S.DAL\\S.DAL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.dal\\configrations\\atractionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E205966-CC41-4B7B-9260-AB73DE87F970}|S.DAL\\S.DAL.csproj|solutionrelative:s.dal\\configrations\\atractionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Migrations\\20250117105214_DbSet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:S.DAL\\Migrations\\20250117105214_DbSet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E205966-CC41-4B7B-9260-AB73DE87F970}|S.DAL\\S.DAL.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E205966-CC41-4B7B-9260-AB73DE87F970}|S.DAL\\S.DAL.csproj|solutionrelative:s.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Migrations\\20250117104443_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:S.DAL\\Migrations\\20250117104443_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|solutionrelative:s.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|solutionrelative:s.mvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|solutionrelative:s.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|solutionrelative:s.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|c:\\users\\classtime\\source\\repos\\simulation5\\s.mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D0CBA3F-4363-4798-BDDE-763AC932CA02}|S.MVC\\S.MVC.csproj|solutionrelative:s.mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "S.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "S.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:37:20.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Areas\\Admin\\Views\\Atraction\\Create.cshtml",
+              "RelativeDocumentMoniker": "S.MVC\\Areas\\Admin\\Views\\Atraction\\Create.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Areas\\Admin\\Views\\Atraction\\Create.cshtml",
+              "RelativeToolTip": "S.MVC\\Areas\\Admin\\Views\\Atraction\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T13:23:21.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Repositories\\Concretes\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "S.DAL\\Repositories\\Concretes\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Repositories\\Concretes\\CategoryRepository.cs",
+              "RelativeToolTip": "S.DAL\\Repositories\\Concretes\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:32:42.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AtractionController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Areas\\Admin\\Controllers\\AtractionController.cs",
+              "RelativeDocumentMoniker": "S.MVC\\Areas\\Admin\\Controllers\\AtractionController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Areas\\Admin\\Controllers\\AtractionController.cs*",
+              "RelativeToolTip": "S.MVC\\Areas\\Admin\\Controllers\\AtractionController.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:18:29.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "S.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "S.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAuwLgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T10:10:51.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AtractionService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Services\\Concretes\\AtractionService.cs",
+              "RelativeDocumentMoniker": "S.BL\\Services\\Concretes\\AtractionService.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Services\\Concretes\\AtractionService.cs",
+              "RelativeToolTip": "S.BL\\Services\\Concretes\\AtractionService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAQwCMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:28:04.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AtractionCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\DTOs\\AtractionDTOs\\AtractionCreateDTO.cs",
+              "RelativeDocumentMoniker": "S.BL\\DTOs\\AtractionDTOs\\AtractionCreateDTO.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\DTOs\\AtractionDTOs\\AtractionCreateDTO.cs",
+              "RelativeToolTip": "S.BL\\DTOs\\AtractionDTOs\\AtractionCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:21:19.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "S.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Program.cs",
+              "RelativeToolTip": "S.MVC\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAewBMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:11:32.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Areas\\Admin\\Views\\Atraction\\Index.cshtml",
+              "RelativeDocumentMoniker": "S.MVC\\Areas\\Admin\\Views\\Atraction\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Areas\\Admin\\Views\\Atraction\\Index.cshtml",
+              "RelativeToolTip": "S.MVC\\Areas\\Admin\\Views\\Atraction\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T12:19:30.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "S.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "S.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAMgBAAAAAAAAAAAAAHoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:37:01.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "S.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "S.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:37:43.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "S.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "S.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:37:31.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAtractionService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Services\\Abstractions\\IAtractionService.cs",
+              "RelativeDocumentMoniker": "S.BL\\Services\\Abstractions\\IAtractionService.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Services\\Abstractions\\IAtractionService.cs",
+              "RelativeToolTip": "S.BL\\Services\\Abstractions\\IAtractionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:18:01.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "S.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "S.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:36:52.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Repositories\\Concretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "S.DAL\\Repositories\\Concretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Repositories\\Concretes\\GenericRepository.cs",
+              "RelativeToolTip": "S.DAL\\Repositories\\Concretes\\GenericRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:58:47.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "S.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeToolTip": "S.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:53:46.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryUpdateValidtion.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Validations\\CategoryValidations\\CategoryUpdateValidtion.cs",
+              "RelativeDocumentMoniker": "S.BL\\Validations\\CategoryValidations\\CategoryUpdateValidtion.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Validations\\CategoryValidations\\CategoryUpdateValidtion.cs",
+              "RelativeToolTip": "S.BL\\Validations\\CategoryValidations\\CategoryUpdateValidtion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:16:36.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250117125214_Changes.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Migrations\\20250117125214_Changes.cs",
+              "RelativeDocumentMoniker": "S.DAL\\Migrations\\20250117125214_Changes.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Migrations\\20250117125214_Changes.cs",
+              "RelativeToolTip": "S.DAL\\Migrations\\20250117125214_Changes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:52:14.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AtractionUpdateValidation.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Validations\\AtractionValidation\\AtractionUpdateValidation.cs",
+              "RelativeDocumentMoniker": "S.BL\\Validations\\AtractionValidation\\AtractionUpdateValidation.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Validations\\AtractionValidation\\AtractionUpdateValidation.cs",
+              "RelativeToolTip": "S.BL\\Validations\\AtractionValidation\\AtractionUpdateValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:08:31.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryCreateValidation.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Validations\\CategoryValidations\\CategoryCreateValidation.cs",
+              "RelativeDocumentMoniker": "S.BL\\Validations\\CategoryValidations\\CategoryCreateValidation.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Validations\\CategoryValidations\\CategoryCreateValidation.cs",
+              "RelativeToolTip": "S.BL\\Validations\\CategoryValidations\\CategoryCreateValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:11:56.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AtractionUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\DTOs\\AtractionDTOs\\AtractionUpdateDTO.cs",
+              "RelativeDocumentMoniker": "S.BL\\DTOs\\AtractionDTOs\\AtractionUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\DTOs\\AtractionDTOs\\AtractionUpdateDTO.cs",
+              "RelativeToolTip": "S.BL\\DTOs\\AtractionDTOs\\AtractionUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:23:51.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AtractionValidation.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Validations\\AtractionValidation\\AtractionValidation.cs",
+              "RelativeDocumentMoniker": "S.BL\\Validations\\AtractionValidation\\AtractionValidation.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Validations\\AtractionValidation\\AtractionValidation.cs",
+              "RelativeToolTip": "S.BL\\Validations\\AtractionValidation\\AtractionValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:02:33.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ServiceConfig.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Configurations\\ServiceConfig.cs",
+              "RelativeDocumentMoniker": "S.BL\\Configurations\\ServiceConfig.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Configurations\\ServiceConfig.cs",
+              "RelativeToolTip": "S.BL\\Configurations\\ServiceConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:00:04.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryProfile.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Profiles\\CategoryProfile.cs",
+              "RelativeDocumentMoniker": "S.BL\\Profiles\\CategoryProfile.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Profiles\\CategoryProfile.cs",
+              "RelativeToolTip": "S.BL\\Profiles\\CategoryProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:58:30.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\DTOs\\CategoryDTOs\\CategoryCreateDTO.cs",
+              "RelativeDocumentMoniker": "S.BL\\DTOs\\CategoryDTOs\\CategoryCreateDTO.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\DTOs\\CategoryDTOs\\CategoryCreateDTO.cs",
+              "RelativeToolTip": "S.BL\\DTOs\\CategoryDTOs\\CategoryCreateDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:24:13.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AtractionProfile.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Profiles\\AtractionProfile.cs",
+              "RelativeDocumentMoniker": "S.BL\\Profiles\\AtractionProfile.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Profiles\\AtractionProfile.cs",
+              "RelativeToolTip": "S.BL\\Profiles\\AtractionProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:56:24.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IAtractionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Repositories\\Abstractions\\IAtractionRepository.cs",
+              "RelativeDocumentMoniker": "S.DAL\\Repositories\\Abstractions\\IAtractionRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Repositories\\Abstractions\\IAtractionRepository.cs",
+              "RelativeToolTip": "S.DAL\\Repositories\\Abstractions\\IAtractionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:56:54.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "S.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "RelativeToolTip": "S.BL\\Services\\Abstractions\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:19:25.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Services\\Concretes\\CategoryService.cs",
+              "RelativeDocumentMoniker": "S.BL\\Services\\Concretes\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.BL\\Services\\Concretes\\CategoryService.cs",
+              "RelativeToolTip": "S.BL\\Services\\Concretes\\CategoryService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:19:22.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "S.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "S.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-17T11:36:04.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "S.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "S.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:37:51.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "S.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "S.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T11:37:53.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AtractionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Repositories\\Concretes\\AtractionRepository.cs",
+              "RelativeDocumentMoniker": "S.DAL\\Repositories\\Concretes\\AtractionRepository.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Repositories\\Concretes\\AtractionRepository.cs",
+              "RelativeToolTip": "S.DAL\\Repositories\\Concretes\\AtractionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T11:32:34.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.Core\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "S.Core\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.Core\\Models\\Category.cs",
+              "RelativeToolTip": "S.Core\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:34:39.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "S.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "S.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:28:13.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250117105214_DbSet.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Migrations\\20250117105214_DbSet.cs",
+              "RelativeDocumentMoniker": "S.DAL\\Migrations\\20250117105214_DbSet.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Migrations\\20250117105214_DbSet.cs",
+              "RelativeToolTip": "S.DAL\\Migrations\\20250117105214_DbSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:52:14.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AtractionConfig.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Configrations\\AtractionConfig.cs",
+              "RelativeDocumentMoniker": "S.DAL\\Configrations\\AtractionConfig.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Configrations\\AtractionConfig.cs",
+              "RelativeToolTip": "S.DAL\\Configrations\\AtractionConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:46:51.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RepoConfig.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Configrations\\RepoConfig.cs",
+              "RelativeDocumentMoniker": "S.DAL\\Configrations\\RepoConfig.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Configrations\\RepoConfig.cs",
+              "RelativeToolTip": "S.DAL\\Configrations\\RepoConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:46:21.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250117104443_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Migrations\\20250117104443_Initial.cs",
+              "RelativeDocumentMoniker": "S.DAL\\Migrations\\20250117104443_Initial.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Migrations\\20250117104443_Initial.cs",
+              "RelativeToolTip": "S.DAL\\Migrations\\20250117104443_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:44:44.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "S.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\appsettings.json",
+              "RelativeToolTip": "S.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-17T10:14:29.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "S.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "S.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:12:22.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "S.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "S.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIsDAAAAAAAAAAAkwK4DAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T10:10:39.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "S.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "S.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:10:16.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "S.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "S.MVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T10:10:58.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "S.MVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\source\\repos\\Simulation5\\S.MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "S.MVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T10:10:59.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
