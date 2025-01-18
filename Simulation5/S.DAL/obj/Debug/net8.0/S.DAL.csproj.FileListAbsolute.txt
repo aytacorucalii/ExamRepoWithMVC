@@ -1,0 +1,17 @@
+C:\Users\classtime\source\repos\Simulation5\S.DAL\bin\Debug\net8.0\S.DAL.deps.json
+C:\Users\classtime\source\repos\Simulation5\S.DAL\bin\Debug\net8.0\S.DAL.runtimeconfig.json
+C:\Users\classtime\source\repos\Simulation5\S.DAL\bin\Debug\net8.0\S.DAL.dll
+C:\Users\classtime\source\repos\Simulation5\S.DAL\bin\Debug\net8.0\S.DAL.pdb
+C:\Users\classtime\source\repos\Simulation5\S.DAL\bin\Debug\net8.0\S.Core.dll
+C:\Users\classtime\source\repos\Simulation5\S.DAL\bin\Debug\net8.0\S.Core.pdb
+C:\Users\classtime\source\repos\Simulation5\S.DAL\obj\Debug\net8.0\S.DAL.csproj.AssemblyReference.cache
+C:\Users\classtime\source\repos\Simulation5\S.DAL\obj\Debug\net8.0\S.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\classtime\source\repos\Simulation5\S.DAL\obj\Debug\net8.0\S.DAL.AssemblyInfoInputs.cache
+C:\Users\classtime\source\repos\Simulation5\S.DAL\obj\Debug\net8.0\S.DAL.AssemblyInfo.cs
+C:\Users\classtime\source\repos\Simulation5\S.DAL\obj\Debug\net8.0\S.DAL.csproj.CoreCompileInputs.cache
+C:\Users\classtime\source\repos\Simulation5\S.DAL\obj\Debug\net8.0\S.DAL.csproj.Up2Date
+C:\Users\classtime\source\repos\Simulation5\S.DAL\obj\Debug\net8.0\S.DAL.dll
+C:\Users\classtime\source\repos\Simulation5\S.DAL\obj\Debug\net8.0\refint\S.DAL.dll
+C:\Users\classtime\source\repos\Simulation5\S.DAL\obj\Debug\net8.0\S.DAL.pdb
+C:\Users\classtime\source\repos\Simulation5\S.DAL\obj\Debug\net8.0\S.DAL.genruntimeconfig.cache
+C:\Users\classtime\source\repos\Simulation5\S.DAL\obj\Debug\net8.0\ref\S.DAL.dll
