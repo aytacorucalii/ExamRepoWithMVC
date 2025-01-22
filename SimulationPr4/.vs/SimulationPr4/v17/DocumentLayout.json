@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulationpr4\\pr.dal\\repositories\\concretes\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|solutionrelative:pr.dal\\repositories\\concretes\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulationpr4\\pr.dal\\repositories\\abstractions\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|solutionrelative:pr.dal\\repositories\\abstractions\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulationpr4\\pr.dal\\configurations\\doctorconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|solutionrelative:pr.dal\\configurations\\doctorconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E191368B-077F-4686-BE0C-8A6DD50D751D}|Pr.MVC\\Pr.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulationpr4\\pr.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E191368B-077F-4686-BE0C-8A6DD50D751D}|Pr.MVC\\Pr.MVC.csproj|solutionrelative:pr.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulationpr4\\pr.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|solutionrelative:pr.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E191368B-077F-4686-BE0C-8A6DD50D751D}|Pr.MVC\\Pr.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulationpr4\\pr.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E191368B-077F-4686-BE0C-8A6DD50D751D}|Pr.MVC\\Pr.MVC.csproj|solutionrelative:pr.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E191368B-077F-4686-BE0C-8A6DD50D751D}|Pr.MVC\\Pr.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulationpr4\\pr.mvc\\areas\\admin\\views\\doctorcontrolller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E191368B-077F-4686-BE0C-8A6DD50D751D}|Pr.MVC\\Pr.MVC.csproj|solutionrelative:pr.mvc\\areas\\admin\\views\\doctorcontrolller\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E191368B-077F-4686-BE0C-8A6DD50D751D}|Pr.MVC\\Pr.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulationpr4\\pr.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E191368B-077F-4686-BE0C-8A6DD50D751D}|Pr.MVC\\Pr.MVC.csproj|solutionrelative:pr.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulationpr4\\pr.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|solutionrelative:pr.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E191368B-077F-4686-BE0C-8A6DD50D751D}|Pr.MVC\\Pr.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulationpr4\\pr.mvc\\areas\\admin\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -135,20 +147,8 @@
       "RelativeMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|solutionrelative:pr.dal\\configurations\\repoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulationpr4\\pr.dal\\configurations\\doctorconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|solutionrelative:pr.dal\\configurations\\doctorconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulationpr4\\pr.dal\\repositories\\concretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|solutionrelative:pr.dal\\repositories\\concretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulationpr4\\pr.dal\\repositories\\concretes\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|solutionrelative:pr.dal\\repositories\\concretes\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulationpr4\\pr.dal\\repositories\\abstractions\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82074BD5-4005-482F-A1EE-418149D38700}|Pr.DAL\\Pr.DAL.csproj|solutionrelative:pr.dal\\repositories\\abstractions\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E191368B-077F-4686-BE0C-8A6DD50D751D}|Pr.MVC\\Pr.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\examrepowitjmvc\\simulationpr4\\pr.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -190,47 +190,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Pr.MVC\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Pr.MVC\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T19:03:19.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Pr.MVC\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Pr.MVC\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T10:26:33.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Views\\DoctorControlller\\Create.cshtml",
-              "RelativeDocumentMoniker": "Pr.MVC\\Areas\\Admin\\Views\\DoctorControlller\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Views\\DoctorControlller\\Create.cshtml",
-              "RelativeToolTip": "Pr.MVC\\Areas\\Admin\\Views\\DoctorControlller\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T18:24:54.797Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -246,68 +207,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DoctorController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "RelativeDocumentMoniker": "Pr.MVC\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "RelativeToolTip": "Pr.MVC\\Areas\\Admin\\Controllers\\DoctorController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T12:13:04.9Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Views\\DoctorControlller\\Index.cshtml",
               "RelativeDocumentMoniker": "Pr.MVC\\Areas\\Admin\\Views\\DoctorControlller\\Index.cshtml",
               "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Views\\DoctorControlller\\Index.cshtml",
               "RelativeToolTip": "Pr.MVC\\Areas\\Admin\\Views\\DoctorControlller\\Index.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADQAAAB6AAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAIBJwDQAAAB6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T12:13:57.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Pr.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Pr.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T10:46:42.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Pr.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Pr.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T10:46:50.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DoctorCreateDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\DTOs\\DoctorDTOs\\DoctorCreateDTO.cs",
-              "RelativeDocumentMoniker": "Pr.BL\\DTOs\\DoctorDTOs\\DoctorCreateDTO.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\DTOs\\DoctorDTOs\\DoctorCreateDTO.cs",
-              "RelativeToolTip": "Pr.BL\\DTOs\\DoctorDTOs\\DoctorCreateDTO.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T11:26:35.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T12:13:57.281Z"
             },
             {
               "$type": "Document",
@@ -317,14 +225,136 @@
               "RelativeDocumentMoniker": "Pr.DAL\\Contexts\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.DAL\\Contexts\\AppDbContext.cs",
               "RelativeToolTip": "Pr.DAL\\Contexts\\AppDbContext.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAgwA0AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwAwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:32:12.784Z",
+              "WhenOpened": "2025-01-16T10:32:12.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.DAL\\Configurations\\DoctorConfig.cs",
+              "RelativeDocumentMoniker": "Pr.DAL\\Configurations\\DoctorConfig.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.DAL\\Configurations\\DoctorConfig.cs",
+              "RelativeToolTip": "Pr.DAL\\Configurations\\DoctorConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T10:49:46.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.DAL\\Repositories\\Abstractions\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "Pr.DAL\\Repositories\\Abstractions\\IDoctorRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.DAL\\Repositories\\Abstractions\\IDoctorRepository.cs",
+              "RelativeToolTip": "Pr.DAL\\Repositories\\Abstractions\\IDoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:01:37.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.DAL\\Repositories\\Concretes\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "Pr.DAL\\Repositories\\Concretes\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.DAL\\Repositories\\Concretes\\DoctorRepository.cs",
+              "RelativeToolTip": "Pr.DAL\\Repositories\\Concretes\\DoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:01:39.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "Pr.MVC\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "Pr.MVC\\Areas\\Admin\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:13:04.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Views\\DoctorControlller\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pr.MVC\\Areas\\Admin\\Views\\DoctorControlller\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Views\\DoctorControlller\\Create.cshtml",
+              "RelativeToolTip": "Pr.MVC\\Areas\\Admin\\Views\\DoctorControlller\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T18:24:54.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pr.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pr.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T19:03:19.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pr.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pr.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:26:33.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Pr.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Pr.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:46:42.275Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Pr.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Pr.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T10:46:50.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\DTOs\\DoctorDTOs\\DoctorCreateDTO.cs",
+              "RelativeDocumentMoniker": "Pr.BL\\DTOs\\DoctorDTOs\\DoctorCreateDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\DTOs\\DoctorDTOs\\DoctorCreateDTO.cs",
+              "RelativeToolTip": "Pr.BL\\DTOs\\DoctorDTOs\\DoctorCreateDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T11:26:35.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "Pr.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
@@ -332,12 +362,11 @@
               "RelativeToolTip": "Pr.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "ViewState": "AgIAAPQBAAAAAAAAAAAUwBYCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-16T10:46:08.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T10:46:08.653Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "Pr.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -345,12 +374,11 @@
               "RelativeToolTip": "Pr.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:45:46.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T10:45:46.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Program.cs",
               "RelativeDocumentMoniker": "Pr.MVC\\Program.cs",
@@ -358,12 +386,11 @@
               "RelativeToolTip": "Pr.MVC\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:36:03.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T10:36:03.617Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "OperationCancelException.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\Exceptions\\OperationCancelException.cs",
               "RelativeDocumentMoniker": "Pr.BL\\Exceptions\\OperationCancelException.cs",
@@ -371,12 +398,11 @@
               "RelativeToolTip": "Pr.BL\\Exceptions\\OperationCancelException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T18:03:44.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T18:03:44.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "DoctorService.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\Services\\Concretes\\DoctorService.cs",
               "RelativeDocumentMoniker": "Pr.BL\\Services\\Concretes\\DoctorService.cs",
@@ -384,25 +410,23 @@
               "RelativeToolTip": "Pr.BL\\Services\\Concretes\\DoctorService.cs",
               "ViewState": "AgIAABsAAAAAAAAAAADwvzwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T11:24:44.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T11:24:44.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\Services\\Concretes\\DepartmentService.cs",
               "RelativeDocumentMoniker": "Pr.BL\\Services\\Concretes\\DepartmentService.cs",
               "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\Services\\Concretes\\DepartmentService.cs",
               "RelativeToolTip": "Pr.BL\\Services\\Concretes\\DepartmentService.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAAD4AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAIBQwD4AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T11:24:41.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T11:24:41.035Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "DepartmentCreateDTO.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\DTOs\\DepartmentDTOs\\DepartmentCreateDTO.cs",
               "RelativeDocumentMoniker": "Pr.BL\\DTOs\\DepartmentDTOs\\DepartmentCreateDTO.cs",
@@ -410,12 +434,11 @@
               "RelativeToolTip": "Pr.BL\\DTOs\\DepartmentDTOs\\DepartmentCreateDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T11:27:03.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T11:27:03.082Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "ItemNotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\Exceptions\\ItemNotFoundException.cs",
               "RelativeDocumentMoniker": "Pr.BL\\Exceptions\\ItemNotFoundException.cs",
@@ -423,12 +446,11 @@
               "RelativeToolTip": "Pr.BL\\Exceptions\\ItemNotFoundException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T17:58:42.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T17:58:42.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Pr.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -440,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "DoctorValidation.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\Validations\\Doctors\\DoctorValidation.cs",
               "RelativeDocumentMoniker": "Pr.BL\\Validations\\Doctors\\DoctorValidation.cs",
@@ -452,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "DepartmentValidation.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\Validations\\Departments\\DepartmentValidation.cs",
               "RelativeDocumentMoniker": "Pr.BL\\Validations\\Departments\\DepartmentValidation.cs",
@@ -464,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "Pr.MVC\\Areas\\Admin\\Controllers\\DepartmentController.cs",
@@ -476,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Pr.MVC\\Controllers\\HomeController.cs",
@@ -488,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Config.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\Configurations\\ServiceConfig\\Config.cs",
               "RelativeDocumentMoniker": "Pr.BL\\Configurations\\ServiceConfig\\Config.cs",
@@ -500,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "DepartmentProfile.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\Profiles\\DepartmentProfile.cs",
               "RelativeDocumentMoniker": "Pr.BL\\Profiles\\DepartmentProfile.cs",
@@ -512,7 +534,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "DoctorProfile.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\Profiles\\DoctorProfile.cs",
               "RelativeDocumentMoniker": "Pr.BL\\Profiles\\DoctorProfile.cs",
@@ -524,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "IDepartmentService.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\Services\\Abstractions\\IDepartmentService.cs",
               "RelativeDocumentMoniker": "Pr.BL\\Services\\Abstractions\\IDepartmentService.cs",
@@ -536,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "IDoctorService.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.BL\\Services\\Abstractions\\IDoctorService.cs",
               "RelativeDocumentMoniker": "Pr.BL\\Services\\Abstractions\\IDoctorService.cs",
@@ -548,19 +570,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.Core\\Models\\Doctor.cs",
               "RelativeDocumentMoniker": "Pr.Core\\Models\\Doctor.cs",
               "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.Core\\Models\\Doctor.cs",
               "RelativeToolTip": "Pr.Core\\Models\\Doctor.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T10:27:15.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.Core\\Models\\Department.cs",
               "RelativeDocumentMoniker": "Pr.Core\\Models\\Department.cs",
@@ -572,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.Core\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Pr.Core\\Models\\Base\\BaseEntity.cs",
@@ -584,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "RepoConfig.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.DAL\\Configurations\\RepoConfig.cs",
               "RelativeDocumentMoniker": "Pr.DAL\\Configurations\\RepoConfig.cs",
@@ -596,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.DAL\\Repositories\\Concretes\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Pr.DAL\\Repositories\\Concretes\\GenericRepository.cs",
@@ -608,19 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "DoctorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.DAL\\Repositories\\Concretes\\DoctorRepository.cs",
-              "RelativeDocumentMoniker": "Pr.DAL\\Repositories\\Concretes\\DoctorRepository.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.DAL\\Repositories\\Concretes\\DoctorRepository.cs",
-              "RelativeToolTip": "Pr.DAL\\Repositories\\Concretes\\DoctorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T11:01:39.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Pr.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
@@ -629,30 +639,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAABBwBIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T10:54:31.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "IDoctorRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.DAL\\Repositories\\Abstractions\\IDoctorRepository.cs",
-              "RelativeDocumentMoniker": "Pr.DAL\\Repositories\\Abstractions\\IDoctorRepository.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.DAL\\Repositories\\Abstractions\\IDoctorRepository.cs",
-              "RelativeToolTip": "Pr.DAL\\Repositories\\Abstractions\\IDoctorRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T11:01:37.412Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "DoctorConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.DAL\\Configurations\\DoctorConfig.cs",
-              "RelativeDocumentMoniker": "Pr.DAL\\Configurations\\DoctorConfig.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\ExamRepoWitjMVC\\SimulationPr4\\Pr.DAL\\Configurations\\DoctorConfig.cs",
-              "RelativeToolTip": "Pr.DAL\\Configurations\\DoctorConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T10:49:46.165Z"
             },
             {
               "$type": "Document",
